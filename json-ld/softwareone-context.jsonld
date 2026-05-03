@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "swo": "https://api-evangelist.com/vocab/softwareone#",
+    "schema": "https://schema.org/",
+    "gr": "http://purl.org/goodrelations/v1#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Order": "schema:Order",
+    "Subscription": "swo:Subscription",
+    "Product": "gr:ProductOrService",
+    "Organization": "schema:Organization",
+    "Agreement": "swo:Agreement",
+    "License": "swo:License",
+
+    "id": "@id",
+    "type": "@type",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "status": "schema:orderStatus",
+    "created": {
+      "@id": "schema:dateCreated",
+      "@type": "xsd:dateTime"
+    },
+    "modified": {
+      "@id": "schema:dateModified",
+      "@type": "xsd:dateTime"
+    },
+
+    "client": "schema:customer",
+    "vendor": "schema:seller",
+    "agreement": "swo:agreement",
+    "lines": "schema:orderedItem",
+    "quantity": "schema:orderQuantity",
+    "product": "gr:includes",
+    "unitPrice": "gr:hasCurrencyValue",
+    "currency": "gr:hasCurrency",
+    "notes": "schema:description",
+    "completedAt": {
+      "@id": "schema:orderDate",
+      "@type": "xsd:dateTime"
+    },
+
+    "billingTerm": "swo:billingTerm",
+    "startDate": {
+      "@id": "schema:validFrom",
+      "@type": "xsd:date"
+    },
+    "endDate": {
+      "@id": "schema:validThrough",
+      "@type": "xsd:date"
+    },
+    "autoRenew": "swo:autoRenew",
+
+    "licensePosition": "swo:licensePosition",
+    "entitlements": "swo:entitlements",
+    "deployments": "swo:deployments",
+    "complianceStatus": "swo:complianceStatus",
+
+    "cloudProvider": "swo:cloudProvider",
+    "monthlySpend": "swo:monthlySpend",
+    "savingsOpportunity": "swo:savingsOpportunity",
+    "rightsizingRecommendations": "swo:rightsizingRecommendations"
+  }
+}

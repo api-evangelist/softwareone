@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://api-evangelist.com/schemas/softwareone/order",
+  "title": "Order",
+  "description": "A SoftwareOne Marketplace order representing a client's purchase of software products or subscriptions.",
+  "type": "object",
+  "required": ["id", "status", "client", "lines"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the order."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "querying", "processing", "completed", "failed"],
+      "description": "Current status of the order."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["purchase", "change", "termination"],
+      "description": "Type of order transaction."
+    },
+    "client": {
+      "type": "object",
+      "required": ["id", "name"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Client organization identifier."
+        },
+        "name": {
+          "type": "string",
+          "description": "Client organization name."
+        }
+      },
+      "description": "The client organization placing the order."
+    },
+    "agreement": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Agreement identifier this order is placed against."
+        },
+        "name": {
+          "type": "string",
+          "description": "Agreement name."
+        }
+      },
+      "description": "The marketplace agreement this order belongs to."
+    },
+    "lines": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "quantity", "product"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Line item identifier."
+          },
+          "quantity": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Number of units ordered."
+          },
+          "product": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "Product identifier."
+              },
+              "name": {
+                "type": "string",
+                "description": "Product name."
+              }
+            },
+            "description": "The product being ordered."
+          },
+          "unitPrice": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Unit price for this line item."
+          },
+          "currency": {
+            "type": "string",
+            "description": "ISO 4217 currency code for the unit price."
+          }
+        }
+      },
+      "description": "Line items included in this order."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Free-text notes or special instructions for this order."
+    },
+    "created": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the order was created."
+    },
+    "modified": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the order was last modified."
+    },
+    "completedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the order was completed."
+    }
+  },
+  "additionalProperties": false
+}

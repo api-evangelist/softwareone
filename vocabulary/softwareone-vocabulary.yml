@@ -1,0 +1,189 @@
+vocabulary:
+  name: SoftwareOne Vocabulary
+  description: >-
+    Domain vocabulary for the SoftwareOne Marketplace Platform covering software
+    procurement, license management, cloud cost optimization, and partner ecosystem
+    concepts used in the platform APIs.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+
+marketplace-concepts:
+  - term: Agreement
+    definition: >-
+      A contractual arrangement between a client and vendor established through
+      the SoftwareOne Marketplace, defining licensing terms, pricing, and
+      entitlements for a set of software products.
+    related:
+      - Order
+      - Subscription
+      - Entitlement
+
+  - term: Order
+    definition: >-
+      A transactional record representing a client's purchase of one or more
+      software products or subscriptions through the marketplace. Orders go
+      through states including draft, placed, in-progress, and completed.
+    related:
+      - Agreement
+      - Subscription
+      - Product
+
+  - term: Subscription
+    definition: >-
+      An active licensing arrangement between a client and a software vendor,
+      representing ongoing entitlements with billing cycles, quantities, and
+      renewal terms managed through the platform.
+    related:
+      - Order
+      - Agreement
+      - Product
+
+  - term: Listing
+    definition: >-
+      A vendor's product offering published on the SoftwareOne Marketplace,
+      including pricing options, feature descriptions, and licensing models
+      available to client organizations.
+    related:
+      - Product
+      - Vendor
+      - Catalog
+
+  - term: Product
+    definition: >-
+      A software solution, SaaS application, or cloud service available for
+      purchase through the SoftwareOne Marketplace, offered by one or more vendors.
+    related:
+      - Listing
+      - Subscription
+      - License
+
+  - term: Entitlement
+    definition: >-
+      A client's right to access or use a specific software product based on
+      purchased licenses, verified against vendor provisioning systems and
+      tracked for compliance purposes.
+    related:
+      - License
+      - Subscription
+      - SAM
+
+license-management:
+  - term: Software Asset Management
+    definition: >-
+      The practice of managing and optimizing the purchase, deployment, maintenance,
+      utilization, and disposal of software applications within an organization,
+      ensuring compliance and minimizing costs.
+    aliases:
+      - SAM
+    related:
+      - License
+      - Compliance
+      - Entitlement
+
+  - term: License Position
+    definition: >-
+      The calculated difference between an organization's entitlements (owned
+      licenses) and its deployments (installed software), indicating over- or
+      under-licensing status at any point in time.
+    related:
+      - Software Asset Management
+      - Compliance
+      - Audit
+
+  - term: Vendor Audit
+    definition: >-
+      A formal review initiated by a software vendor to verify that a client's
+      software deployments match their purchased license entitlements, with
+      potential financial penalties for non-compliance.
+    related:
+      - License Position
+      - Software Asset Management
+      - Compliance
+
+  - term: True-Up
+    definition: >-
+      A periodic reconciliation process where a client pays for any software
+      usage that exceeded their licensed quantity during the previous period,
+      commonly used in enterprise licensing agreements.
+    related:
+      - License Position
+      - Vendor Audit
+      - Subscription
+
+cloud-cost-management:
+  - term: Cloud Spend Optimization
+    definition: >-
+      The practice of identifying and eliminating wasteful cloud expenditure
+      through rightsizing compute resources, deleting unused resources, leveraging
+      reserved instances, and optimizing architectural patterns.
+    related:
+      - FinOps
+      - Reserved Instance
+      - Rightsizing
+
+  - term: FinOps
+    definition: >-
+      Financial operations for cloud: a cultural practice bringing together
+      finance, technology, and business teams to maximize cloud business value
+      by making data-driven spending decisions.
+    related:
+      - Cloud Spend Optimization
+      - Cost Allocation
+      - Showback
+
+  - term: Rightsizing
+    definition: >-
+      The process of matching cloud resource specifications to workload requirements,
+      reducing cost by downsizing over-provisioned resources or upgrading
+      under-provisioned ones to improve performance per dollar.
+    related:
+      - Cloud Spend Optimization
+      - Cost Optimization
+      - FinOps
+
+  - term: Reserved Instance
+    definition: >-
+      A billing discount applied to cloud compute resources in exchange for a
+      commitment to use a specific instance type in a region for a one- or
+      three-year term, providing significant savings over on-demand pricing.
+    aliases:
+      - RI
+      - Savings Plan
+    related:
+      - Cloud Spend Optimization
+      - Commitment Discount
+      - FinOps
+
+partner-ecosystem:
+  - term: Vendor
+    definition: >-
+      A software publisher or technology company that lists products on the
+      SoftwareOne Marketplace and relies on SoftwareOne's distribution network
+      to reach clients globally.
+    related:
+      - Listing
+      - Product
+      - Reseller
+
+  - term: Reseller
+    definition: >-
+      A partner organization authorized to resell software products through the
+      SoftwareOne channel, often providing additional services such as implementation,
+      training, and support.
+    related:
+      - Vendor
+      - Partner Program
+      - Agreement
+
+  - term: Managed Services Provider
+    definition: >-
+      A partner that delivers ongoing management, monitoring, and optimization
+      services for client software and cloud environments, often bundled with
+      SoftwareOne platform capabilities.
+    aliases:
+      - MSP
+    related:
+      - Partner Program
+      - Cloud Cost Management
+      - Software Asset Management

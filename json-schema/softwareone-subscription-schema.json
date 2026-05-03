@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://api-evangelist.com/schemas/softwareone/subscription",
+  "title": "Subscription",
+  "description": "An active SoftwareOne Marketplace subscription representing ongoing software entitlements with billing and renewal terms.",
+  "type": "object",
+  "required": ["id", "status", "product", "quantity", "startDate"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the subscription."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "suspended", "terminated", "pending"],
+      "description": "Current status of the subscription."
+    },
+    "product": {
+      "type": "object",
+      "required": ["id", "name"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Product identifier."
+        },
+        "name": {
+          "type": "string",
+          "description": "Product name."
+        },
+        "vendor": {
+          "type": "string",
+          "description": "Vendor name."
+        }
+      },
+      "description": "The software product covered by this subscription."
+    },
+    "quantity": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Number of licensed seats or units."
+    },
+    "billingTerm": {
+      "type": "string",
+      "enum": ["monthly", "annual", "multi-year"],
+      "description": "Billing frequency for this subscription."
+    },
+    "startDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when the subscription became active."
+    },
+    "endDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when the subscription expires or is due for renewal."
+    },
+    "autoRenew": {
+      "type": "boolean",
+      "description": "Whether the subscription automatically renews at the end of the term.",
+      "default": true
+    },
+    "unitPrice": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Per-unit price for this subscription."
+    },
+    "currency": {
+      "type": "string",
+      "description": "ISO 4217 currency code."
+    },
+    "agreement": {
+      "type": "string",
+      "description": "Identifier of the marketplace agreement this subscription falls under."
+    },
+    "created": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the subscription was created."
+    },
+    "modified": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the subscription was last modified."
+    }
+  },
+  "additionalProperties": false
+}

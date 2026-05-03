@@ -1,0 +1,39 @@
+{
+  "id": "ORD-2026-05-0082374",
+  "status": "completed",
+  "type": "purchase",
+  "client": {
+    "id": "CLT-00049821",
+    "name": "Acme Corporation"
+  },
+  "agreement": {
+    "id": "AGR-00017653",
+    "name": "Acme Microsoft EA 2026"
+  },
+  "lines": [
+    {
+      "id": "LINE-001",
+      "quantity": 250,
+      "product": {
+        "id": "PRD-MSFT-M365-E3",
+        "name": "Microsoft 365 E3"
+      },
+      "unitPrice": 36.00,
+      "currency": "USD"
+    },
+    {
+      "id": "LINE-002",
+      "quantity": 50,
+      "product": {
+        "id": "PRD-MSFT-M365-E5",
+        "name": "Microsoft 365 E5"
+      },
+      "unitPrice": 57.00,
+      "currency": "USD"
+    }
+  ],
+  "notes": "Initial deployment for UK subsidiary migration to Microsoft 365 cloud.",
+  "created": "2026-04-28T10:15:00Z",
+  "modified": "2026-04-29T14:22:00Z",
+  "completedAt": "2026-04-30T09:00:00Z"
+}

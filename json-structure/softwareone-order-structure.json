@@ -1,0 +1,16 @@
+{
+  "name": "Order",
+  "description": "A SoftwareOne Marketplace order for software products or subscriptions.",
+  "fields": [
+    { "name": "id", "type": "string", "required": true, "description": "Order identifier" },
+    { "name": "status", "type": "string", "required": true, "description": "Status: draft, querying, processing, completed, failed" },
+    { "name": "type", "type": "string", "required": false, "description": "Type: purchase, change, termination" },
+    { "name": "client", "type": "object", "required": true, "description": "Client organization with id and name" },
+    { "name": "agreement", "type": "object", "required": false, "description": "Associated marketplace agreement" },
+    { "name": "lines", "type": "array<object>", "required": true, "description": "Line items with quantity, product, and pricing" },
+    { "name": "notes", "type": "string", "required": false, "description": "Special instructions" },
+    { "name": "created", "type": "datetime", "required": false, "description": "Creation timestamp" },
+    { "name": "modified", "type": "datetime", "required": false, "description": "Last modification timestamp" },
+    { "name": "completedAt", "type": "datetime", "required": false, "description": "Completion timestamp" }
+  ]
+}

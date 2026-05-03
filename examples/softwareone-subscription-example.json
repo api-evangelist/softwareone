@@ -1,0 +1,19 @@
+{
+  "id": "SUB-2026-00089234",
+  "status": "active",
+  "product": {
+    "id": "PRD-MSFT-M365-E3",
+    "name": "Microsoft 365 E3",
+    "vendor": "Microsoft"
+  },
+  "quantity": 250,
+  "billingTerm": "annual",
+  "startDate": "2026-05-01",
+  "endDate": "2027-04-30",
+  "autoRenew": true,
+  "unitPrice": 36.00,
+  "currency": "USD",
+  "agreement": "AGR-00017653",
+  "created": "2026-04-30T09:00:00Z",
+  "modified": "2026-04-30T09:00:00Z"
+}
