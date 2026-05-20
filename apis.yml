@@ -83,6 +83,8 @@ apis:
       - type: Website
         url: https://www.softwareone.com/en/solutions/software-asset-management
 common:
+  - type: GitHubOrganization
+    url: https://github.com/softwareone-platform
   - url: https://www.softwareone.com/
     name: SoftwareOne Website
     type: Website
