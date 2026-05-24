@@ -1,0 +1,336 @@
+openapi: 3.1.0
+info:
+  title: SoftwareOne Marketplace Platform API
+  version: "1.0.0"
+  summary: Programmatic access to the SoftwareOne Marketplace catalog, products, items, listings, parameters, and media.
+  description: |
+    The SoftwareOne Marketplace Platform API exposes REST endpoints for vendors and
+    clients to manage catalog products, items, listings, parameters, and media.
+    This specification covers the publicly documented Catalog API surface described at
+    docs.platform.softwareone.com/developer-resources/rest-api/catalog-api.
+
+    Authentication uses an API token sent in the Authorization header with the Bearer prefix.
+    All requests must be made over HTTPS.
+  contact:
+    name: SoftwareOne Platform Documentation
+    url: https://docs.platform.softwareone.com/
+servers:
+  - url: https://api.platform.softwareone.com
+    description: SoftwareOne Marketplace Platform production API
+security:
+  - bearerAuth: []
+tags:
+  - name: Products
+    description: Catalog product lifecycle management
+  - name: Items
+    description: Catalog item lifecycle management
+  - name: Listings
+    description: Marketplace listings
+  - name: Parameters
+    description: Product configuration parameters
+  - name: Media
+    description: Product media assets
+paths:
+  /catalog/products:
+    get:
+      tags: [Products]
+      summary: List products
+      operationId: listProducts
+      responses:
+        "200":
+          description: Collection of products
+    post:
+      tags: [Products]
+      summary: Create product
+      operationId: createProduct
+      responses:
+        "201":
+          description: Product created
+  /catalog/products/{id}:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    get:
+      tags: [Products]
+      summary: Retrieve product
+      operationId: getProduct
+      responses:
+        "200":
+          description: Product details
+    put:
+      tags: [Products]
+      summary: Update product
+      operationId: updateProduct
+      responses:
+        "200":
+          description: Product updated
+    delete:
+      tags: [Products]
+      summary: Delete product
+      operationId: deleteProduct
+      responses:
+        "204":
+          description: Product removed
+  /catalog/products/{id}/mark-for-review:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Products]
+      summary: Submit product for review
+      operationId: markProductForReview
+      responses:
+        "200":
+          description: Product submitted for review
+  /catalog/products/{id}/publish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Products]
+      summary: Publish product
+      operationId: publishProduct
+      responses:
+        "200":
+          description: Product published
+  /catalog/products/{id}/unpublish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Products]
+      summary: Unpublish product
+      operationId: unpublishProduct
+      responses:
+        "200":
+          description: Product unpublished
+  /catalog/products/{id}/settings:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    put:
+      tags: [Products]
+      summary: Update product settings
+      operationId: updateProductSettings
+      responses:
+        "200":
+          description: Settings updated
+  /catalog/items:
+    get:
+      tags: [Items]
+      summary: List items
+      operationId: listItems
+      responses:
+        "200":
+          description: Collection of items
+    post:
+      tags: [Items]
+      summary: Create item
+      operationId: createItem
+      responses:
+        "201":
+          description: Item created
+  /catalog/items/{id}:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    get:
+      tags: [Items]
+      summary: Retrieve item
+      operationId: getItem
+      responses:
+        "200":
+          description: Item details
+    put:
+      tags: [Items]
+      summary: Update item
+      operationId: updateItem
+      responses:
+        "200":
+          description: Item updated
+    delete:
+      tags: [Items]
+      summary: Delete item
+      operationId: deleteItem
+      responses:
+        "204":
+          description: Item removed
+  /catalog/items/{id}/publish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Items]
+      summary: Publish item
+      operationId: publishItem
+      responses:
+        "200":
+          description: Item published
+  /catalog/items/{id}/unpublish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Items]
+      summary: Unpublish item
+      operationId: unpublishItem
+      responses:
+        "200":
+          description: Item unpublished
+  /catalog/listings:
+    get:
+      tags: [Listings]
+      summary: List listings
+      operationId: listListings
+      responses:
+        "200":
+          description: Collection of listings
+    post:
+      tags: [Listings]
+      summary: Create listing
+      operationId: createListing
+      responses:
+        "201":
+          description: Listing created
+  /catalog/listings/{id}:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    get:
+      tags: [Listings]
+      summary: Retrieve listing
+      operationId: getListing
+      responses:
+        "200":
+          description: Listing details
+    put:
+      tags: [Listings]
+      summary: Update listing
+      operationId: updateListing
+      responses:
+        "200":
+          description: Listing updated
+    delete:
+      tags: [Listings]
+      summary: Delete listing
+      operationId: deleteListing
+      responses:
+        "204":
+          description: Listing removed
+  /catalog/products/{productId}/parameters:
+    parameters:
+      - name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+    get:
+      tags: [Parameters]
+      summary: List parameters for a product
+      operationId: listProductParameters
+      responses:
+        "200":
+          description: Collection of parameters
+  /catalog/parameters:
+    post:
+      tags: [Parameters]
+      summary: Create parameter
+      operationId: createParameter
+      responses:
+        "201":
+          description: Parameter created
+  /catalog/parameters/{id}:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    get:
+      tags: [Parameters]
+      summary: Retrieve parameter
+      operationId: getParameter
+      responses:
+        "200":
+          description: Parameter details
+    put:
+      tags: [Parameters]
+      summary: Update parameter
+      operationId: updateParameter
+      responses:
+        "200":
+          description: Parameter updated
+    delete:
+      tags: [Parameters]
+      summary: Delete parameter
+      operationId: deleteParameter
+      responses:
+        "204":
+          description: Parameter removed
+  /catalog/products/{productId}/media:
+    parameters:
+      - name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+    get:
+      tags: [Media]
+      summary: List media for a product
+      operationId: listProductMedia
+      responses:
+        "200":
+          description: Collection of media
+  /catalog/media:
+    post:
+      tags: [Media]
+      summary: Upload media
+      operationId: createMedia
+      responses:
+        "201":
+          description: Media created
+  /catalog/media/{id}:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    get:
+      tags: [Media]
+      summary: Retrieve media
+      operationId: getMedia
+      responses:
+        "200":
+          description: Media details
+    put:
+      tags: [Media]
+      summary: Update media
+      operationId: updateMedia
+      responses:
+        "200":
+          description: Media updated
+    delete:
+      tags: [Media]
+      summary: Delete media
+      operationId: deleteMedia
+      responses:
+        "204":
+          description: Media removed
+  /catalog/media/{id}/publish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Media]
+      summary: Publish media
+      operationId: publishMedia
+      responses:
+        "200":
+          description: Media published
+  /catalog/media/{id}/unpublish:
+    parameters:
+      - $ref: '#/components/parameters/Id'
+    post:
+      tags: [Media]
+      summary: Unpublish media
+      operationId: unpublishMedia
+      responses:
+        "200":
+          description: Media unpublished
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: API Token
+      description: API token sent as 'Authorization: Bearer {TOKEN}' over HTTPS.
+  parameters:
+    Id:
+      name: id
+      in: path
+      required: true
+      schema:
+        type: string
