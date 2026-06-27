@@ -106,7 +106,7 @@ common:
   - url: https://twitter.com/SoftwareOne
     name: SoftwareOne on X
     type: X
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://docs.platform.softwareone.com/llms.txt
 maintainers:
   - FN: Kin Lane
