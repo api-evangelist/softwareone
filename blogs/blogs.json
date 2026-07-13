@@ -3,10 +3,12 @@
   "feeds": [
     {
       "source": "https://www.softwareone.com/en/blog",
+      "feed_url": "https://www.softwareone.com/en/blog",
+      "title": "",
       "saved": 0,
-      "error": "HTTP 429 Too Many Requests"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:11:18Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
