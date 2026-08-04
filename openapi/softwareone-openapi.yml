@@ -326,7 +326,7 @@ components:
       type: http
       scheme: bearer
       bearerFormat: API Token
-      description: API token sent as 'Authorization: Bearer {TOKEN}' over HTTPS.
+      description: "API token sent as 'Authorization: Bearer {TOKEN}' over HTTPS."
   parameters:
     Id:
       name: id
