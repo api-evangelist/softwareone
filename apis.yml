@@ -35,65 +35,112 @@ created: '2025-02-17'
 modified: '2026-05-02'
 specificationVersion: '0.19'
 apis:
-  - aid: softwareone:marketplace-platform-api
-    name: SoftwareOne Marketplace Platform API
-    description: >-
-      The SoftwareOne Marketplace Platform API provides programmatic access to
-      the marketplace catalog, enabling clients and partners to browse products,
-      manage subscriptions, track orders, and access billing information. It
-      supports both vendor onboarding and client purchasing workflows via REST
-      endpoints documented at docs.platform.softwareone.com.
-    humanURL: https://docs.platform.softwareone.com/
-    baseURL: https://api.platform.softwareone.com
-    tags:
-      - Marketplace
-      - Catalog
-      - Subscriptions
-      - Orders
-      - Billing
-    properties:
-      - type: Documentation
-        url: https://docs.platform.softwareone.com/
-      - type: Website
-        url: https://www.softwareone.com/
-  - aid: softwareone:cloud-spend-optimization
-    name: SoftwareOne Cloud Spend Optimization API
-    description: >-
-      APIs for tracking and optimizing cloud spend across AWS, Azure, and Google
-      Cloud environments. Provides usage data, cost analytics, rightsizing
-      recommendations, and reservation management capabilities integrated within
-      the SoftwareOne platform.
-    humanURL: https://www.softwareone.com/en/solutions/cloud/cloud-cost-management
-    baseURL: https://api.platform.softwareone.com
-    tags:
-      - Cloud Cost Management
-      - FinOps
-      - AWS
-      - Azure
-      - Google Cloud
-    properties:
-      - type: Documentation
-        url: https://docs.platform.softwareone.com/
-      - type: Website
-        url: https://www.softwareone.com/en/solutions/cloud/cloud-cost-management
-  - aid: softwareone:software-asset-management
-    name: SoftwareOne Software Asset Management API
-    description: >-
-      APIs for software asset management (SAM) workflows including license
-      inventory, compliance reporting, entitlement reconciliation, and
-      vendor audit preparation across on-premises and cloud software estates.
-    humanURL: https://www.softwareone.com/en/solutions/software-asset-management
-    baseURL: https://api.platform.softwareone.com
-    tags:
-      - Software Asset Management
-      - License Management
-      - SAM
-      - Compliance
-    properties:
-      - type: Documentation
-        url: https://docs.platform.softwareone.com/
-      - type: Website
-        url: https://www.softwareone.com/en/solutions/software-asset-management
+- aid: softwareone:marketplace-platform-api
+  name: SoftwareOne Marketplace Platform API
+  description: >-
+    The SoftwareOne Marketplace Platform API provides programmatic access to the marketplace catalog,
+    enabling clients and partners to browse products, manage subscriptions, track orders, and access billing
+    information. It supports both vendor onboarding and client purchasing workflows via REST endpoints
+    documented at docs.platform.softwareone.com.
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Marketplace
+  - Catalog
+  - Subscriptions
+  - Orders
+  - Billing
+  properties:
+  - type: Documentation
+    url: https://docs.platform.softwareone.com/
+  - type: Website
+    url: https://www.softwareone.com/
+- aid: softwareone:cloud-spend-optimization
+  name: SoftwareOne Cloud Spend Optimization API
+  description: >-
+    APIs for tracking and optimizing cloud spend across AWS, Azure, and Google Cloud environments. Provides
+    usage data, cost analytics, rightsizing recommendations, and reservation management capabilities integrated
+    within the SoftwareOne platform.
+  humanURL: https://www.softwareone.com/en/solutions/cloud/cloud-cost-management
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Cloud Cost Management
+  - FinOps
+  - AWS
+  - Azure
+  - Google Cloud
+  properties:
+  - type: Documentation
+    url: https://docs.platform.softwareone.com/
+  - type: Website
+    url: https://www.softwareone.com/en/solutions/cloud/cloud-cost-management
+- aid: softwareone:software-asset-management
+  name: SoftwareOne Software Asset Management API
+  description: >-
+    APIs for software asset management (SAM) workflows including license inventory, compliance reporting,
+    entitlement reconciliation, and vendor audit preparation across on-premises and cloud software estates.
+  humanURL: https://www.softwareone.com/en/solutions/software-asset-management
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Software Asset Management
+  - License Management
+  - SAM
+  - Compliance
+  properties:
+  - type: Documentation
+    url: https://docs.platform.softwareone.com/
+  - type: Website
+    url: https://www.softwareone.com/en/solutions/software-asset-management
+- aid: softwareone:softwareone-items-api
+  name: SoftwareOne Items API
+  description: Catalog item lifecycle management
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Items
+  properties:
+  - type: OpenAPI
+    url: openapi/softwareone-items-api-openapi.yml
+- aid: softwareone:softwareone-listings-api
+  name: SoftwareOne Listings API
+  description: Marketplace listings
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Listings
+  properties:
+  - type: OpenAPI
+    url: openapi/softwareone-listings-api-openapi.yml
+- aid: softwareone:softwareone-media-api
+  name: SoftwareOne Media API
+  description: Product media assets
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Media
+  properties:
+  - type: OpenAPI
+    url: openapi/softwareone-media-api-openapi.yml
+- aid: softwareone:softwareone-parameters-api
+  name: SoftwareOne Parameters API
+  description: Product configuration parameters
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Parameters
+  properties:
+  - type: OpenAPI
+    url: openapi/softwareone-parameters-api-openapi.yml
+- aid: softwareone:softwareone-products-api
+  name: SoftwareOne Products API
+  description: Catalog product lifecycle management
+  humanURL: https://docs.platform.softwareone.com/
+  baseURL: https://api.platform.softwareone.com
+  tags:
+  - Products
+  properties:
+  - type: OpenAPI
+    url: openapi/softwareone-products-api-openapi.yml
 common:
   - type: DomainSecurity
     url: security/softwareone-domain-security.yml
