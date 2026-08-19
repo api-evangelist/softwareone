@@ -1,0 +1,89 @@
+openapi: 3.2.0
+info:
+  title: SoftwareOne Marketplace Platform Listings API
+  version: 1.0.0
+  summary: Programmatic access to the SoftwareOne Marketplace catalog, products, items, listings, parameters, and media.
+  description: 'The SoftwareOne Marketplace Platform API exposes REST endpoints for vendors and
+
+    clients to manage catalog products, items, listings, parameters, and media.
+
+    This specification covers the publicly documented Catalog API surface described at
+
+    docs.platform.softwareone.com/developer-resources/rest-api/catalog-api.
+
+
+    Authentication uses an API token sent in the Authorization header with the Bearer prefix.
+
+    All requests must be made over HTTPS.
+
+    '
+  contact:
+    name: SoftwareOne Platform Documentation
+    url: https://docs.platform.softwareone.com/
+servers:
+- url: https://api.platform.softwareone.com
+  description: SoftwareOne Marketplace Platform production API
+security:
+- bearerAuth: []
+tags:
+- name: Listings
+  description: Marketplace listings
+paths:
+  /catalog/listings:
+    get:
+      tags:
+      - Listings
+      summary: List listings
+      operationId: listListings
+      responses:
+        '200':
+          description: Collection of listings
+    post:
+      tags:
+      - Listings
+      summary: Create listing
+      operationId: createListing
+      responses:
+        '201':
+          description: Listing created
+  /catalog/listings/{id}:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    get:
+      tags:
+      - Listings
+      summary: Retrieve listing
+      operationId: getListing
+      responses:
+        '200':
+          description: Listing details
+    put:
+      tags:
+      - Listings
+      summary: Update listing
+      operationId: updateListing
+      responses:
+        '200':
+          description: Listing updated
+    delete:
+      tags:
+      - Listings
+      summary: Delete listing
+      operationId: deleteListing
+      responses:
+        '204':
+          description: Listing removed
+components:
+  parameters:
+    Id:
+      name: id
+      in: path
+      required: true
+      schema:
+        type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: API Token
+      description: 'API token sent as ''Authorization: Bearer {TOKEN}'' over HTTPS.'

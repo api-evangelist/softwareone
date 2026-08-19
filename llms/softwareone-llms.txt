@@ -1,0 +1,1240 @@
+# Marketplace Platform
+
+## Marketplace Platform
+
+- [Home](https://docs.platform.softwareone.com/home.md)
+- [Overview](https://docs.platform.softwareone.com/marketplace-platform/platform-overview.md): Learn about the platform and its key capabilities.
+- [Key concepts](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/key-concepts.md): See the key concepts and terminology used across the platform.
+- [Getting started](https://docs.platform.softwareone.com/marketplace-platform/getting-started.md): Get started with the Marketplace Platform.
+- [Access the platform](https://docs.platform.softwareone.com/marketplace-platform/getting-started/sign-up.md): Learn how to sign up for the SoftwareOne Marketplace Platform.
+- [Sign in to your account](https://docs.platform.softwareone.com/marketplace-platform/getting-started/sign-in-to-your-account.md): Access your Marketplace account using your login credentials.
+- [Navigate the interface](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface.md): Learn how to navigate and use the platform.
+- [Spotlight widget](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/spotlight-widget.md): Use the Spotlight widget to keep track of items requiring attention.
+- [Information & description cards](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/view-information-cards.md): View key properties and contextual information through cards in the interface.
+- [Manage your profile](https://docs.platform.softwareone.com/marketplace-platform/getting-started/manage-profile.md): Change your profile picture, display language, and time zone settings.
+- [Switch accounts](https://docs.platform.softwareone.com/marketplace-platform/getting-started/switch-account.md): Switch between your accounts without signing out.
+- [Customize the data grid](https://docs.platform.softwareone.com/marketplace-platform/getting-started/customize-the-data-grid.md): Adjust the data grid layout to suit your needs.
+- [Manage notifications](https://docs.platform.softwareone.com/marketplace-platform/getting-started/manage-notification-preferences.md): Enable or disable notifications for your profile.
+- [Using favorites](https://docs.platform.softwareone.com/marketplace-platform/getting-started/mark-favorite-pages.md): Add and manage your favorite pages and accounts.
+- [Guides & tutorials](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials.md): See the quickstart guide and tutorials for the Marketplace Platform.
+- [Quickstart guide](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/quickstart-guide.md): Use this quickstart to get started in the Marketplace, place your first order, and manage your subscription.
+- [Marketplace for clients](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients.md): Get started as a client using the Marketplace Platform.
+- [How to buy products](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md): Access the product catalog, discover products, and submit your order.
+- [How to filter orders](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-filter-your-orders.md): Use the different types of filters to find and view your orders.
+- [How to increase or reduce licenses](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/adjust-subscription-quantity.md): Change the number of licenses for your subscription.
+- [How to add more items to an agreement](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/add-items-to-an-agreement.md): Add new items to your existing Marketplace agreement.
+- [How to split billing across buyers](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-split-billing-across-buyers.md): Divide subscription costs across buyers in your account.
+- [How to set or change billing currency](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md): Learn how to choose a currency for your Marketplace invoices.
+- [Marketplace for partners](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners.md): Learn about partner management and how it works.
+- [What is partner management](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/what-is-partners-management.md): Learn about Partner Management and how it works.
+- [How to get started](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-get-started.md): Learn how to get started as a partner using the Marketplace Platform.
+- [What to know about the Partner Portal sunset](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/what-to-know-about-the-partner-portal-sunset.md): Learn about transitioning from the legacy One Club portal to Marketplace Platform.
+- [How does the Partner Portal migration work](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-does-partner-portal-migration-work.md): Migrate from SoftwareOne's legacy Partner Portal to the Marketplace Platform.
+- [How to verify if your account has partner capabilities](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-verify-if-your-account-has-partner-capabilities.md): Verify if your Marketplace account is enabled for partner use.
+- [How to configure licensees for resale](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-configure-licensees-for-resale.md): Create a licensee for resale ordering and link it to the right buyer and seller.
+- [How to enroll in the SWO CSP partner program](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md): Enroll in the SoftwareOne CSP partner program.
+- [How to enroll in the CSP partner program](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md): Enroll in the Cloud Solution Provider partner program.
+- [How to order products for resale](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-order-products-for-resale.md): Order software products for reselling to your end customers.
+- [Partner FAQs](https://docs.platform.softwareone.com/marketplace-platform/guides-and-tutorials/marketplace-for-partners/partner-faqs.md): Find answers to all frequently asked questions for partners.
+- [Billing](https://docs.platform.softwareone.com/modules-and-features/billing.md): Access invoices, statements, analytics, and split billing.
+- [Understand your billing documents](https://docs.platform.softwareone.com/modules-and-features/billing/understand-your-billing-documents.md): Learn how to read and interpret your Marketplace invoices and statements.
+- [Billing FAQs](https://docs.platform.softwareone.com/modules-and-features/billing/understand-your-billing-documents/billing-faqs.md): Find answers to frequently asked questions about invoices and statements.
+- [Invoice fields mapping](https://docs.platform.softwareone.com/modules-and-features/billing/understand-your-billing-documents/invoice-fields-mapping.md): Understand the key invoice fields and how they map to the platform.
+- [Analytics](https://docs.platform.softwareone.com/modules-and-features/billing/analytics.md): View and analyze billing insights.
+- [Customize analytics using filters](https://docs.platform.softwareone.com/modules-and-features/billing/analytics/customize-analytics-using-filters.md): Use filters to customize Analytics.
+- [Export billing data](https://docs.platform.softwareone.com/modules-and-features/billing/analytics/export-billing-data.md): Download your billing data.
+- [Save and manage views](https://docs.platform.softwareone.com/modules-and-features/billing/analytics/save-and-manage-views.md)
+- [Invoices](https://docs.platform.softwareone.com/modules-and-features/billing/invoices.md): Manage and review your Marketplace invoices.
+- [Find specific invoices using filters](https://docs.platform.softwareone.com/modules-and-features/billing/invoices/filter-invoices.md): Use different types of filters to find and view your invoices.
+- [View and download invoices](https://docs.platform.softwareone.com/modules-and-features/billing/invoices/download-invoices.md): Access and download your Marketplace invoice PDFs.
+- [Sales orders](https://docs.platform.softwareone.com/modules-and-features/billing/orders.md): Access your perpetual license orders.
+- [Statements](https://docs.platform.softwareone.com/modules-and-features/billing/statements.md): Manage and review your Excel billing statements.
+- [View statements](https://docs.platform.softwareone.com/modules-and-features/billing/statements/view-statements.md): Review billing statements and open statement details.
+- [Filter statements](https://docs.platform.softwareone.com/modules-and-features/billing/statements/filter-billing-statements.md): Quickly find the billing statements you need with filters.
+- [Download statements](https://docs.platform.softwareone.com/modules-and-features/billing/statements/download-statements.md): Download your billing statements in XLSX format.
+- [Split billing](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing.md)
+- [Configure buyers for split billing](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/configure-buyers-for-split-billing.md): Define buyers and split subscription costs across those buyers.
+- [Set up split billing allocation](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/set-up-split-billing-allocation.md): Set up percentage allocation for split billing.
+- [Edit split billing](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/edit-split-billing.md): Manage buyers and adjust their allocation percentages.
+- [Split billing for change orders](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/split-billing-for-change-orders.md): Split billing when ordering additional licenses.
+- [Review split billing configuration](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/review-split-billing-configuration.md): Review your configuration for split billing.
+- [Specify PO numbers for split billing](https://docs.platform.softwareone.com/modules-and-features/billing/split-billing/specify-po-numbers-for-split-billing.md): Specify purchase order numbers for additional buyers configured for split billing.
+- [Catalog](https://docs.platform.softwareone.com/modules-and-features/catalog.md): Browse products and items, and view product and vendor profiles.
+- [Items](https://docs.platform.softwareone.com/modules-and-features/catalog/items.md): Browse individual items in the Marketplace.
+- [Products](https://docs.platform.softwareone.com/modules-and-features/catalog/products.md): Browse purchasable software products in the Marketplace.
+- [Product profiles](https://docs.platform.softwareone.com/modules-and-features/catalog/product-profiles.md): Review broader product information and related resources.
+- [Buy products from product profiles](https://docs.platform.softwareone.com/modules-and-features/catalog/product-profiles/buy-products-from-product-profiles.md)
+- [Vendor profiles](https://docs.platform.softwareone.com/modules-and-features/catalog/vendor-profiles.md): Access vendor profiles to learn about all vendors in the SoftwareOne Marketplace.
+- [Chat](https://docs.platform.softwareone.com/modules-and-features/chat.md): Chat with users within your account or your SoftwareOne account team.
+- [Start a direct chat](https://docs.platform.softwareone.com/modules-and-features/chat/start-a-direct-chat.md): Start a conversation with another user or a member of your SoftwareOne account team.
+- [Start a group chat](https://docs.platform.softwareone.com/modules-and-features/chat/start-a-group-chat.md): Start a group chat with multiple users.
+- [Manage group chats](https://docs.platform.softwareone.com/modules-and-features/chat/manage-group-chats.md): Add participants, edit the chat name, or leave a group chat.
+- [Mute or unmute a chat](https://docs.platform.softwareone.com/modules-and-features/chat/mute-or-unmute-a-chat.md): Mute or unmute notifications for a chat.
+- [Search for chat messages](https://docs.platform.softwareone.com/modules-and-features/chat/search-for-chat-messages.md): Find specific chats or messages in a chat.
+- [Edit or delete messages in chat](https://docs.platform.softwareone.com/modules-and-features/chat/edit-or-delete-messages-in-chat.md): Manage your messages in a chat conversation.
+- [Helpdesk](https://docs.platform.softwareone.com/modules-and-features/helpdesk.md): Contact your account team, manage support cases, and share product feedback.
+- [Account team](https://docs.platform.softwareone.com/modules-and-features/helpdesk/account-team.md): View your SoftwareOne account team members in the platform.
+- [Cases](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases.md): Learn about cases and how to manage them in the SoftwareOne Marketplace.
+- [Case states](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases/case-states.md): Learn about the different states of a case.
+- [Create case](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases/create-case.md)
+- [View cases](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases/view-cases.md)
+- [Complete case](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases/complete-case.md): Complete (or close) a case chat if your issue is resolved.
+- [Reopen case](https://docs.platform.softwareone.com/modules-and-features/helpdesk/cases/reopen-case.md): Reopen a closed case from the Chats page.
+- [Feedback](https://docs.platform.softwareone.com/modules-and-features/helpdesk/feedback.md): Share your ideas and feedback with SoftwareOne.
+- [Feedback states](https://docs.platform.softwareone.com/modules-and-features/helpdesk/feedback/feedback-states.md): Learn about the different states of a feedback item.
+- [View feedback](https://docs.platform.softwareone.com/modules-and-features/helpdesk/feedback/view-feedback.md)
+- [Edit or delete feedback](https://docs.platform.softwareone.com/modules-and-features/helpdesk/feedback/edit-or-delete-feedback.md): Manage the feedback you've shared with SoftwareOne.
+- [Inventory](https://docs.platform.softwareone.com/modules-and-features/inventory.md): Access your license agreements and software assets.
+- [License agreements](https://docs.platform.softwareone.com/modules-and-features/inventory/license-agreements.md)
+- [Software assets](https://docs.platform.softwareone.com/modules-and-features/inventory/software-assets.md)
+- [View software assets](https://docs.platform.softwareone.com/modules-and-features/inventory/software-assets/view-software-assets.md)
+- [Export and import software assets](https://docs.platform.softwareone.com/modules-and-features/inventory/software-assets/export-software-assets.md)
+- [Marketplace](https://docs.platform.softwareone.com/modules-and-features/marketplace.md): Manage agreements, orders, subscriptions, assets, and entitlements in Marketplace.
+- [Agreements](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements.md)
+- [Agreement states](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/agreement-states.md): Learn about the different states of an agreement.
+- [View agreements](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/view-agreements.md)
+- [Terminate agreement](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/terminate-agreements.md): Cancel an active Marketplace agreement.
+- [Rename agreement](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/rename-an-agreement.md): Update the agreement name.
+- [Add or update additional client ID](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/edit-agreement-id.md): Add or update the additional client ID for an order.
+- [View or download agreement files](https://docs.platform.softwareone.com/modules-and-features/marketplace/agreements/view-and-download-attachments.md): Access files related to your agreement.
+- [Assets](https://docs.platform.softwareone.com/modules-and-features/marketplace/assets.md)
+- [Asset states](https://docs.platform.softwareone.com/modules-and-features/marketplace/assets/asset-states.md): Learn about the different states of an asset.
+- [Rename asset](https://docs.platform.softwareone.com/modules-and-features/marketplace/assets/rename-asset.md): Rename your one-time purchase item.
+- [Entitlements](https://docs.platform.softwareone.com/modules-and-features/marketplace/entitlements.md)
+- [Entitlement states](https://docs.platform.softwareone.com/modules-and-features/marketplace/entitlements/entitlement-states.md)
+- [Orders](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders.md)
+- [Order states](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/order-states.md): Learn about the different states of an order.
+- [View orders](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/view-orders.md)
+- [Save order for later](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/save-order-as-a-draft.md): Save your purchase and change orders for submitting later.
+- [Add or update order notes](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/manage-order-notes.md): Manage your notes for an existing order.
+- [Send order reminder email](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/send-order-reminder-email.md): Remind an individual about a pending order via email.
+- [Change status from Querying to Processing](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/set-an-order-to-processing.md): Move a querying order to Processing
+- [Submit saved orders](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/submit-draft-orders.md): Finalize and submit your saved orders for processing.
+- [Delete orders](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders/delete-draft-orders.md): Delete your unsubmitted or draft orders.
+- [Requests](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests.md)
+- [Request states](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests/request-states.md): Learn about the different states of a request.
+- [Create new requests](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests/create-new-requests.md): Create a new request.
+- [Add messages to your request](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests/add-a-message.md): Add new messages to your request.
+- [Add or remove attachments](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests/add-and-manage-attachments.md): Manage attachments for a request.
+- [Set querying requests to processing](https://docs.platform.softwareone.com/modules-and-features/marketplace/requests/set-request-to-processing.md): Set your querying request to processing.
+- [Subscriptions](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions.md)
+- [Subscription states](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/subscription-states.md): Learn about the different states of a subscription.
+- [View subscriptions](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/view-subscriptions.md)
+- [Rename subscription](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/rename-a-subscription.md): Rename your active or updating subscriptions.
+- [Assign client ID to a subscription](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/edit-subscription-id.md): Assign client ID to a subscription
+- [Terminate subscription](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/terminate-a-subscription.md): Cancel specific subscriptions in your agreement.
+- [Manage automatic renewal](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md): Update the automatic renewal settings for a subscription.
+- [Other tools](https://docs.platform.softwareone.com/modules-and-features/other-tools.md): Access dashboards, create new reports, and view report history.
+- [Collaboration Site](https://docs.platform.softwareone.com/modules-and-features/other-tools/collaboration-site.md)
+- [Dashboards](https://docs.platform.softwareone.com/modules-and-features/other-tools/dashboards.md): View predefined dashboards or customize your dashboard to show data that is of interest to you.
+- [Reports](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports.md)
+- [Consumption alerts](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/consumption-alerts.md)
+- [Cloud journey report](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/cloud-journey-report.md)
+- [Customized spend reports](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/customized-spend-reports.md)
+- [Microsoft Services Provider License Agreement report](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/microsoft-services-provider-license-agreement-spla-report.md): Report on your monthly Microsoft Service Provider License Agreements (SPLA).
+- [Office365 spend report](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/office365-spend-report.md): Get detailed analysis of your Office365 spend.
+- [Spend Reports - consumption overview](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/spend-reports-consumption-overview.md): You can use the Client Portal to get a comprehensive consumption overview of your cloud usage and cost.
+- [ServiceNow asset report](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/servicenow-asset-report.md): You can export a report of your ServiceNow Assets.
+- [USU license agreement report](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/usu-license-agreement-report.md): You can export a report of your Aspera license agreements.
+- [Reservation monitoring - cloud reserved instances](https://docs.platform.softwareone.com/modules-and-features/other-tools/reports/reservation-monitoring-cloud-reserved-instances.md)
+- [Procurement](https://docs.platform.softwareone.com/modules-and-features/procurement.md): Manage enterprise agreements, approvals, quotes, orders, and reporting.
+- [Enterprise agreements](https://docs.platform.softwareone.com/modules-and-features/procurement/enterprise-agreements.md): Optimize and simplify the Enterprise Agreement TrueUp process at a local or global scale from collection to license allocation.
+- [Enterprise Agreement TrueUp](https://docs.platform.softwareone.com/modules-and-features/procurement/enterprise-agreements/enterprise-agreement-trueup.md)
+- [Procurement workbench](https://docs.platform.softwareone.com/modules-and-features/procurement/procurement-workbench.md): Procurement users can view their transactions and manage purchase orders and quotes.
+- [View and manage software transactions](https://docs.platform.softwareone.com/modules-and-features/procurement/procurement-workbench/view-and-manage-software-transactions.md)
+- [Products](https://docs.platform.softwareone.com/modules-and-features/procurement/buy-products-and-services.md)
+- [Purchase approval setup](https://docs.platform.softwareone.com/modules-and-features/procurement/purchase-approval-setup.md)
+- [Create approval groups](https://docs.platform.softwareone.com/modules-and-features/procurement/purchase-approval-setup/create-approval-groups.md)
+- [Create approval workflows](https://docs.platform.softwareone.com/modules-and-features/procurement/purchase-approval-setup/create-approval-workflows.md)
+- [Delete workflow rules](https://docs.platform.softwareone.com/modules-and-features/procurement/purchase-approval-setup/delete-workflow-rules.md)
+- [Sales orders](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-orders.md): Track, review, and manage your sales orders.
+- [View sales orders](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-orders/view-sales-orders.md)
+- [Download sales order PDF](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-orders/download-sales-order-pdf.md)
+- [Sales quotes](https://docs.platform.softwareone.com/modules-and-features/procurement/quotes.md)
+- [Manage quotes](https://docs.platform.softwareone.com/modules-and-features/procurement/quotes/create-and-manage-quotes.md)
+- [Sales quotes reporting](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-quotes-reporting.md)
+- [View sales quotes](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-quotes-reporting/view-sales-quotes.md)
+- [Download sales quote PDF](https://docs.platform.softwareone.com/modules-and-features/procurement/sales-quotes-reporting/download-sales-quote-pdf.md)
+- [Service provider dashboard](https://docs.platform.softwareone.com/modules-and-features/procurement/service-provider-dashboard.md): View and generate reports for your Microsoft SPLA contract.
+- [Special quotes](https://docs.platform.softwareone.com/modules-and-features/procurement/special-quotes.md)
+- [Program](https://docs.platform.softwareone.com/modules-and-features/program.md): View available programs, manage enrollments, and track certificates.
+- [Programs](https://docs.platform.softwareone.com/modules-and-features/program/programs.md): Learn about programs and how to view them in the platform.
+- [Certificates](https://docs.platform.softwareone.com/modules-and-features/program/certificates.md)
+- [Certificate states](https://docs.platform.softwareone.com/modules-and-features/program/certificates/certificate-states.md): Learn about the different states of a certificate.
+- [View certificates](https://docs.platform.softwareone.com/modules-and-features/program/certificates/view-certificates.md)
+- [Rename certificate](https://docs.platform.softwareone.com/modules-and-features/program/certificates/rename-certificate.md): Rename your Marketplace certificate from the certificate or program details page.
+- [Enrollments](https://docs.platform.softwareone.com/modules-and-features/program/enrollments.md)
+- [Enrollment states](https://docs.platform.softwareone.com/modules-and-features/program/enrollments/enrollment-states.md): Learn about the different states of an enrollment.
+- [View enrollments](https://docs.platform.softwareone.com/modules-and-features/program/enrollments/view-enrollments.md)
+- [Renew enrollment](https://docs.platform.softwareone.com/modules-and-features/program/enrollments/renew-your-enrollment.md): Renew your enrollment easily.
+- [Settings](https://docs.platform.softwareone.com/modules-and-features/settings.md): Learn about managing your account settings as an administrator.
+- [Account](https://docs.platform.softwareone.com/modules-and-features/settings/account.md): Manage the basic details of your account.
+- [API tokens](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens.md): Learn about creating and managing API tokens in the SoftwareOne Marketplace.
+- [Token states](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/token-states.md): Learn about the different states of an API token.
+- [Create API token](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/create-api-token.md): Create API tokens to access the platform programmatically.
+- [View API tokens](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/view-api-tokens.md)
+- [Edit API token](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/edit-api-token.md): Update existing API token.
+- [Copy API token](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/copy-api-token.md): Copy an API access token.
+- [Delete API token](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/delete-api-token.md): Delete an API token permanently.
+- [Enable or disable API token](https://docs.platform.softwareone.com/modules-and-features/settings/api-tokens/enable-or-disable-api-token.md): Manage your API token.
+- [Audit trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail.md): Access the audit trail and messages for your account.
+- [Buyers](https://docs.platform.softwareone.com/modules-and-features/settings/buyers.md): Learn about buyers in the Marketplace Platform.
+- [View buyers](https://docs.platform.softwareone.com/modules-and-features/settings/buyers/view-buyers.md)
+- [Update buyer details](https://docs.platform.softwareone.com/modules-and-features/settings/buyers/edit-buyers.md): Edit the general information and contact person for a buyer.
+- [Enable or disable buyers](https://docs.platform.softwareone.com/modules-and-features/settings/buyers/enable-or-disable-buyers.md): Manage your existing buyers.
+- [Exchange](https://docs.platform.softwareone.com/modules-and-features/settings/exchange.md): Learn about currencies and exchange rates in the platform.
+- [Currencies](https://docs.platform.softwareone.com/modules-and-features/settings/exchange/currencies.md)
+- [Currency exchange](https://docs.platform.softwareone.com/modules-and-features/settings/exchange/currency-exchange.md)
+- [Groups](https://docs.platform.softwareone.com/modules-and-features/settings/groups.md): Learn about groups in the Marketplace Platform.
+- [Group states](https://docs.platform.softwareone.com/modules-and-features/settings/groups/group-states.md): Learn about the different states of user groups.
+- [Create group](https://docs.platform.softwareone.com/modules-and-features/settings/groups/create-new-group.md): Create a new group and add users to that group.
+- [View groups](https://docs.platform.softwareone.com/modules-and-features/settings/groups/view-groups.md)
+- [Edit group](https://docs.platform.softwareone.com/modules-and-features/settings/groups/edit-group.md): Make changes to an existing group.
+- [Delete group](https://docs.platform.softwareone.com/modules-and-features/settings/groups/delete-group.md): Delete a user group permanently.
+- [Restrict group to certain buyers](https://docs.platform.softwareone.com/modules-and-features/settings/groups/restrict-group-to-certain-buyers.md): Restrict a user group to certain buyers.
+- [Integration](https://docs.platform.softwareone.com/modules-and-features/settings/integration.md)
+- [Install or uninstall extension](https://docs.platform.softwareone.com/modules-and-features/settings/integration/install-or-uninstall-extension.md): Install or uninstall an extension.
+- [View installed extensions](https://docs.platform.softwareone.com/modules-and-features/settings/integration/view-installed-extensions.md)
+- [Redeem invitation](https://docs.platform.softwareone.com/modules-and-features/settings/integration/redeem-invitation.md): Redeem invitation to install an extension.
+- [Licensees](https://docs.platform.softwareone.com/modules-and-features/settings/licensees.md): Learn about licensees in the Marketplace Platform.
+- [Licensee states](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/licensee-states.md): Learn about the different states of licensees.
+- [Create licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees.md): Create a new licensee and map them to buyers and sellers.
+- [View licensees](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/view-licensees.md)
+- [Update licensee details](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/edit-licensees.md): Update an existing licensee.
+- [Enable or disable licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/enable-or-disable-licensees.md): Manage your existing licensees.
+- [Notifications](https://docs.platform.softwareone.com/modules-and-features/settings/notifications.md): Learn about notifications in the Marketplace Platform.
+- [Notification states](https://docs.platform.softwareone.com/modules-and-features/settings/notifications/notification-states.md): Learn about the different states of a notification email.
+- [Configure recipients](https://docs.platform.softwareone.com/modules-and-features/settings/notifications/configure-recipients.md): Manage who receives your email notifications
+- [Enable or disable category](https://docs.platform.softwareone.com/modules-and-features/settings/notifications/enable-or-disable-categories.md): Manage the notification categories for your account.
+- [View notification messages](https://docs.platform.softwareone.com/modules-and-features/settings/notifications/view-notification-messages.md): See all notification emails generated for your account.
+- [Customize notification settings](https://docs.platform.softwareone.com/modules-and-features/settings/notifications/edit-notification-settings.md): Customize the global notification email settings in the Marketplace Platform.
+- [Sellers](https://docs.platform.softwareone.com/modules-and-features/settings/sellers.md): Learn about sellers in the Marketplace Platform.
+- [Seller states](https://docs.platform.softwareone.com/modules-and-features/settings/sellers/seller-states.md): Learn about the different states of a seller.
+- [View sellers](https://docs.platform.softwareone.com/modules-and-features/settings/sellers/view-sellers.md)
+- [Users](https://docs.platform.softwareone.com/modules-and-features/settings/users.md): Learn about users in the Marketplace Platform.
+- [User states](https://docs.platform.softwareone.com/modules-and-features/settings/users/user-states.md): Learn about the different states of a user.
+- [Add new user](https://docs.platform.softwareone.com/modules-and-features/settings/users/add-new-users.md): Invite new users to your SoftwareOne Marketplace account.
+- [View users](https://docs.platform.softwareone.com/modules-and-features/settings/users/view-users.md)
+- [Edit user](https://docs.platform.softwareone.com/modules-and-features/settings/users/edit-users.md): Manage a user’s group membership.
+- [Remove users](https://docs.platform.softwareone.com/modules-and-features/settings/users/remove-users.md): Remove a user from your Marketplace account.
+- [Respond to invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/respond-to-invitations.md): Accept or decline your Marketplace invitation.
+- [Manage account invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations.md): Reinvite a user to your Marketplace account.
+- [Adobe VIP Marketplace](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace.md): Learn about Adobe VIP Marketplace and how it benefits you.
+- [Migrate from Adobe VIP to VIPM](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/migration-from-vip.md): Migrate from Adobe VIP to Adobe VIP Marketplace.
+- [Downsize, termination, and return policies](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/downsize-and-termination-policies.md): Learn about our returns, downsizing, and termination policies.
+- [Common error messages](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/common-error-messages.md): Find the common error messages on the UI.
+- [Tutorials](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos.md)
+- [Order new Adobe subscription](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md): Order an Adobe subscription by creating a new agreement.
+- [Add items to Adobe agreement](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/order-new-adobe-items.md): Add items to an existing agreement.
+- [Transfer your Adobe reseller](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/reseller-transfer.md): Transfer your account to SoftwareOne.
+- [Increase Adobe license quantity](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md): Increase the number of licenses for your existing Adobe subscription.
+- [Reduce Adobe license quantity](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md): Reduce the number of licenses in your Adobe subscription.
+- [Disable Adobe auto-renewal](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/disable-adobe-auto-renewal.md): Stop your Adobe subscription from renewing automatically.
+- [Terminate and return Adobe licenses](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md): Terminate and return licenses within the 14-day return window.
+- [Cancel Adobe agreement](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions.md): Cancel your Adobe agreement and return all subscriptions.
+- [Return Adobe renewal order](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/tutorials-and-videos/return-adobe-renewal-order.md): Return your renewal order for a refund within 14 days.
+- [FAQs](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs.md)
+- [How do I view 3-year commitment details in Marketplace?](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs/how-do-i-view-3-year-commitment-details-in-marketplace.md)
+- [How do I accept my 3-year commitment invitation?](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs/how-do-i-accept-my-3-year-commitment-invitation.md)
+- [How do I select my education sub-segments?](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs/how-do-i-select-my-education-sub-segments.md): Adobe requires all customers with VIP Marketplace accounts in the Education segment to select their education sub-segments.
+- [How do I activate my VIP Marketplace agreement?](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md): Activate your VIP Marketplace agreement.
+- [What happens if I terminate my Adobe subscription?](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md): Learn about the impact of terminating your Adobe subscription.
+- [Release notes](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/release-notes.md): This page outlines the latest updates, improvements, and fixes to the integration between the SoftwareOne Marketplace and Adobe VIP Marketplace.
+- [Terms and conditions](https://docs.platform.softwareone.com/extensions/adobe-vip-marketplace/terms-and-conditions.md)
+- [Alga PSA](https://docs.platform.softwareone.com/extensions/alga-psa.md): Learn about the SoftwareOne Marketplace and Alga PSA integration.
+- [Install the SoftwareOne extension](https://docs.platform.softwareone.com/extensions/alga-psa/install-the-softwareone-extension.md)
+- [Amazon Web Services](https://docs.platform.softwareone.com/extensions/amazon-web-services.md): Learn about ordering AWS cloud services through SoftwareOne.
+- [AWS terminology and concepts](https://docs.platform.softwareone.com/extensions/amazon-web-services/aws-concepts.md): Understand key AWS terminology and concepts.
+- [AWS account setup options](https://docs.platform.softwareone.com/extensions/amazon-web-services/account-options.md): Learn about the different AWS account options in the Marketplace.
+- [AWS Organizations requirements](https://docs.platform.softwareone.com/extensions/amazon-web-services/aws-organizations-requirements.md): Learn about the AWS Organizations requirements.
+- [FAQs](https://docs.platform.softwareone.com/extensions/amazon-web-services/faqs.md): Find answers to frequently asked questions about AWS in the Marketplace.
+- [Tutorials](https://docs.platform.softwareone.com/extensions/amazon-web-services/tutorials.md)
+- [Sign up for new AWS account](https://docs.platform.softwareone.com/extensions/amazon-web-services/tutorials/sign-up-for-new-aws-account.md)
+- [Transfer your AWS account](https://docs.platform.softwareone.com/extensions/amazon-web-services/tutorials/transfer-your-aws-account.md)
+- [Release notes](https://docs.platform.softwareone.com/extensions/amazon-web-services/release-notes.md)
+- [Cloud tools](https://docs.platform.softwareone.com/extensions/cloud-tools.md)
+- [365Simple](https://docs.platform.softwareone.com/extensions/cloud-tools/365simple.md): Learn about the 365Simple dashboard.
+- [AzureSimple](https://docs.platform.softwareone.com/extensions/cloud-tools/azuresimple.md): Learn about the AzureSimple dashboard.
+- [Budgets](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets.md): Define cloud budgets and assign them to groups within your business or cloud service provider.
+- [Create Reporting Period](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/create-reporting-period.md): Create a reporting period.
+- [Create Custom Group Budgets](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/create-custom-group-budgets.md): Create a custom group budget.
+- [Create Per-Provider Budgets](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/create-per-provider-budgets.md): Create a per provider budget.
+- [View Budgets](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/view-budgets.md): View custom group and per-provide budgets.
+- [Request to Create or Update Budgets](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/request-to-create-or-update-budgets.md): Request to create a new budget or update an existing budget.
+- [Edit Budget Utilization Alerts](https://docs.platform.softwareone.com/extensions/cloud-tools/budgets/edit-budget-utilization-alerts.md): Manage your budget utilization alerts.
+- [Chargebacks](https://docs.platform.softwareone.com/extensions/cloud-tools/chargebacks.md): Distribute cloud spend to the relevant business units and cost centres across your organization.
+- [About Chargebacks](https://docs.platform.softwareone.com/extensions/cloud-tools/chargebacks/about-chargebacks.md)
+- [Cloud cost optimization](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-cost-optimization.md): Cloud Cost Optimization Dashboard.
+- [Cloud tenant setup](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup.md)
+- [Azure onboarding](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding.md)
+- [Activate an Azure EA or MPSA account](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md)
+- [Add an Azure MCA account](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/add-an-azure-mca-account.md)
+- [Integrate your Microsoft tenant manually](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/integrate-your-microsoft-tenant-manually.md)
+- [Complete your Microsoft 365 or Azure activation](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/complete-your-microsoft-365-or-microsoft-azure-activation.md)
+- [Assign Reader and Tag Contributor roles (single subscription)](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/assign-reader-and-tag-contributor-roles-single-subscription.md)
+- [Assign Reader and Tag Contributor roles (multiple subscriptions)](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/assign-reader-and-tag-contributor-roles-multiple-subscriptions.md)
+- [Migrate to Azure Cost Management APIs](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/migrate-to-azure-cost-management-apis.md)
+- [Assign Azure Subscription Owner rights](https://docs.platform.softwareone.com/extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/assign-azure-subscription-owner-rights.md)
+- [Custom groups](https://docs.platform.softwareone.com/extensions/cloud-tools/custom-groups.md): Define your organizational structure and assign cloud resources based on your business requirements.
+- [Create custom groups](https://docs.platform.softwareone.com/extensions/cloud-tools/custom-groups/create-custom-groups.md)
+- [Pricelist center](https://docs.platform.softwareone.com/extensions/cloud-tools/pricelist-center.md): Find information on how the IaaS/PaaS Cloud provider price lists work.
+- [View and add prices](https://docs.platform.softwareone.com/extensions/cloud-tools/pricelist-center/view-and-add-prices.md): View or add prices from the IaaS/PaaS cloud providers.
+- [Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations.md): Optimize, improve, and secure your software and cloud environment with intelligent recommendations.
+- [View Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations/view-recommendations.md): View recommendations.
+- [Manage Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations/manage-recommendations.md): Manage your recommendations, add comments, and view progress logs.
+- [Azure Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations/azure-recommendations.md): Manage your Azure recommendations.
+- [AWS Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations/aws-recommendations.md): Manage your AWS recommendations.
+- [Office 365 Recommendations](https://docs.platform.softwareone.com/extensions/cloud-tools/recommendations/office-365-recommendations.md): Manage your Office 365 recommendations.
+- [Simple for AWS](https://docs.platform.softwareone.com/extensions/cloud-tools/simple-for-aws.md): Simple for AWS Dashboard.
+- [Tags and resources](https://docs.platform.softwareone.com/extensions/cloud-tools/tags-and-resources.md)
+- [Utilization](https://docs.platform.softwareone.com/extensions/cloud-tools/utilization.md): Track your cloud resource usage.
+- [Release notes](https://docs.platform.softwareone.com/extensions/cloud-tools/release-notes.md): Learn what's new and improved in Client Portal's Azure Cloud Spend Management.
+- [FinOps for Cloud](https://docs.platform.softwareone.com/extensions/finops-for-cloud.md)
+- [Order FinOps for Cloud from Marketplace](https://docs.platform.softwareone.com/extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md): Order a FinOps for Cloud subscription from the Marketplace.
+- [Cancel your FinOps for Cloud order](https://docs.platform.softwareone.com/extensions/finops-for-cloud/cancel-your-finops-order.md): Terminate your FinOps for Cloud subscription.
+- [ITAM tools](https://docs.platform.softwareone.com/extensions/itam-tools.md)
+- [Renewal manager](https://docs.platform.softwareone.com/extensions/itam-tools/renewal-manager.md)
+- [Microsoft CSP](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider.md)
+- [Azure Lighthouse](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/azure-lighthouse.md)
+- [Assign the Owner role to a subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/azure-lighthouse/assign-subscription-owner-role.md)
+- [Complete Azure Lighthouse onboarding](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/azure-lighthouse/complete-the-azure-lighthouse-onboarding.md)
+- [Granular delegated admin privileges](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/granular-delegated-admin-privileges-gdap.md)
+- [Accept a GDAP relationship request](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/granular-delegated-admin-privileges-gdap/accept-a-gdap-relationship-request.md)
+- [GDAP relationship considerations](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/granular-delegated-admin-privileges-gdap/gdap-and-partner-relationship-request-considerations.md)
+- [GDAP role assignments](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/granular-delegated-admin-privileges-gdap/role-assignment-and-gdap-configuration.md)
+- [Products & programs](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs.md)
+- [Microsoft Customer Agreement (MCA)](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-customer-agreement-mca.md)
+- [New Commerce Experience (NCE)](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-nce.md)
+- [Subscription coterminosity](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-nce/about-subscription-coterminosity.md): Learn how coterminosity aligns subscription renewal dates and the rules that apply in Marketplace Platform.
+- [Coterming subscriptions](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-nce/about-subscription-coterminosity/coterming-subscriptions.md): Align subscription end dates for a new or existing agreement.
+- [Subscription end date errors](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-nce/about-subscription-coterminosity/subscription-end-date-errors.md)
+- [Trial subscriptions](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-nce/trial-subscriptions.md)
+- [Government Community Cloud (GCC)](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-gcc.md)
+- [Onboarding to GCC](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-gcc/onboarding-to-gcc.md)
+- [Microsoft for Education](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/microsoft-for-education.md)
+- [Software subscriptions](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/software-subscriptions.md)
+- [Manage software subscriptions](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/software-subscriptions/manage-software-subscriptions.md)
+- [Perpetual software](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/perpetual-software.md)
+- [About perpetual software orders](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/perpetual-software/about-perpetual-software-orders.md)
+- [Partner programs](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md)
+- [Support & resources](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources.md)
+- [Support for CSP](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/support-options-for-csp.md)
+- [Microsoft 365 tutorials](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365.md)
+- [Buy Microsoft 365 subscription for a new tenant](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md): How to buy Microsoft 365 subscription for a new tenant by setting up a new agreement.
+- [Buy Microsoft 365 subscription for an existing tenant](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md): How to purchase a Microsoft 365 subscription for an existing tenant.
+- [Add new items to an agreement](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/add-new-products-to-your-csp-agreement.md): How to add new software items to your existing Marketplace agreement.
+- [Purchase additional Microsoft 365 licenses](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md): How to order additional licenses for a Microsoft 365 subscription.
+- [Reduce Microsoft 365 licenses](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/reduce-microsoft-365-licenses.md): How to downsize a Microsoft 365 subscription.
+- [Terminate Microsoft 365 agreement](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/terminate-all-microsoft-subscriptions.md): How to terminate your agreement containing Microsoft 365 subscriptions.
+- [Terminate Microsoft 365 subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/terminate-microsoft-subscription.md): How to terminate a Microsoft 365 subscription.
+- [Disable automatic renewal](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
+- [Microsoft Azure tutorials](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure.md)
+- [Purchase Azure subscription for a new tenant](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md): How to create a new Azure tenant and purchase an Azure subscription.
+- [Purchase Azure subscription for an existing tenant](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md): How to add an Azure subscription to an existing Azure tenant.
+- [Purchase additional Azure subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-additional-microsoft-azure-subscriptions.md): How to order additional Azure subscriptions for an existing tenant.
+- [Perpetual Software tutorials](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software.md)
+- [Buy perpetual software licenses](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/buy-perpetual-software-licenses.md): How to order perpetual software licenses by setting up a new agreement and new Microsoft tenant.
+- [Order additional perpetual software licenses](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/order-additional-perpetual-software-licenses.md): How to order additional perpetual software licenses using an existing active agreement.
+- [FAQs](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs.md)
+- [How do I view subscription renewal information?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-view-subscription-renewal-information.md)
+- [Do I need to set up Azure Lighthouse again after a billing transfer?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md)
+- [What subscription renewal options are available?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)
+- [How to transfer Microsoft subscriptions to SoftwareOne?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-to-transfer-microsoft-subscriptions-to-softwareone.md): Transfer your Microsoft subscriptions to SoftwareOne.
+- [I'm getting errors when creating certificates or CSP orders](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md)
+- [My application for Microsoft Education is denied](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/my-application-for-microsoft-education-is-denied.md)
+- [What is MCA policy enforcement?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-is-mca-policy-enforcement.md)
+- [How do I get the Microsoft CSP nonprofit qualification?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-get-the-microsoft-csp-nonprofit-qualification.md)
+- [My order contains Azure reservations and savings plan items](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/my-order-contains-azure-reservations-and-savings-plan-items.md)
+- [What is offer attestation?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-is-offer-attestation.md)
+- [How to establish a partner relationship with SoftwareOne](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-establish-a-partner-relationship-with-softwareone.md)
+- [What happens if I cancel my Microsoft subscription?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-happens-if-i-cancel-my-microsoft-subscription.md)
+- [How do I troubleshoot Lighthouse activation errors?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)
+- [What are the different subscription states in CSP?](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/faqs/subscription-states.md)
+- [Release notes](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/additional-resources/release-notes.md)
+- [REST API](https://docs.platform.softwareone.com/developer-resources/rest-api.md)
+- [Accounts API](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api.md): Use the Accounts API to manage accounts, users, and related entities programmatically.
+- [Account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/state-diagram.md)
+- [Create account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/create-account.md)
+- [Update account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/update-account.md)
+- [Get account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/get-account.md)
+- [List accounts](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/list-accounts.md)
+- [Enable account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/enable-account.md)
+- [Disable account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/disable-account.md)
+- [Activate account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/activate-account.md)
+- [Validate account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/validate-account.md)
+- [Deactivate account](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/deactivate-account.md)
+- [Get account icon](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account/get-account-icon.md)
+- [Account User](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user.md)
+- [Create account user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/create-account-user.md)
+- [List account users](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/list-account-users.md)
+- [Get account user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/get-account-user.md)
+- [Delete account user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/delete-account-user.md)
+- [Accept user invitation](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/accept-user-invitation.md)
+- [Assign user to groups](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/assign-user-to-a-group.md)
+- [Resend user invitation](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/resend-user-invitation.md)
+- [Send new invitation](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/send-new-invitation.md)
+- [Update user group assignment](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/update-user-to-group-assignment.md)
+- [Remove user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/account-user/remove-user.md)
+- [API Token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/token-state-diagram.md)
+- [Create API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/create-token.md)
+- [List API tokens](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/list-tokens.md)
+- [Get API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/get-token.md)
+- [Update API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/update-token.md)
+- [Delete API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/delete-token.md)
+- [Disable API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/disable-token.md)
+- [Enable API token](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/api-tokens/enable-token.md)
+- [Buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/buyer-state-diagram.md)
+- [Create buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/create-buyer.md)
+- [List buyers](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/list-buyers.md)
+- [Get buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/get-buyer.md)
+- [Update buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/update-buyer.md)
+- [Disable buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/disable-buyer.md)
+- [Enable buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/enable-buyer.md)
+- [Validate buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/validate-buyer.md): Validate a Buyer object.
+- [Delete buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/delete-buyer.md)
+- [Deactivate buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/deactivate-buyer.md)
+- [Synchronize buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/synchronize-buyer.md)
+- [Transfer buyer](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/buyer-transfer.md)
+- [Get buyer transfer details](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/buyer-transfer-details.md)
+- [Get buyer icon](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/buyer/get-buyer-icon.md)
+- [Cloud Tenant](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants.md)
+- [Create cloud tenant](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants/create-cloud-tenant.md)
+- [List cloud tenants](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants/list-cloud-tenants.md)
+- [Get cloud tenant](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants/get-cloud-tenant.md)
+- [Update cloud tenant](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants/update-cloud-tenant.md)
+- [Delete cloud tenant](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/cloud-tenants/delete-cloud-tenant.md)
+- [ERP link](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link.md)
+- [List ERP links](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link/list-erp-links.md)
+- [Get ERP link](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link/get-erp-link.md)
+- [Update ERP link](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link/update-erp-link.md)
+- [Unblock ERP link](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link/unblock-erp-link.md)
+- [Block ERP link](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/erp-link/block-erp-link.md)
+- [Licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/licensee-state-diagram.md)
+- [Create licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/create-licensee.md)
+- [List licensees](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/list-licensees.md)
+- [Get licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/get-licensee.md)
+- [Update licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/update-licensee.md)
+- [Disable licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/disable-licensee.md)
+- [Enable licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/enable-licensee.md)
+- [Delete licensee](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/delete-licensee.md)
+- [Get licensee icon](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/licensee/get-licensee-icon.md)
+- [Module](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/module.md)
+- [List modules](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/module/list-modules.md)
+- [Seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/seller-state-diagram.md)
+- [Create seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/create-seller.md)
+- [List sellers](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/list-sellers.md)
+- [Get seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/get-seller.md)
+- [Update seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/update-seller.md)
+- [Activate seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/activate-seller.md)
+- [Deactivate seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/deactivate-seller.md)
+- [Disable seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/disable-seller.md)
+- [Delete seller](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/delete-seller.md)
+- [Get seller icon](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/seller/get-seller-icon.md)
+- [User](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/users-state-diagram.md)
+- [List users](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/list-users.md)
+- [Get user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/get-user.md)
+- [Get SSO configuration](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/get-sso-configuration.md)
+- [Update user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/update-user.md)
+- [Set user password](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/set-user-password.md)
+- [Block user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/block-user.md)
+- [Unblock user](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/users/unblock-user.md)
+- [User Group](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/group-state-diagram.md)
+- [Create user group](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/create-user-group.md)
+- [List user groups](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/list-user-groups.md)
+- [Get user group](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/get-user-group.md)
+- [Update user group](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/update-user-group.md)
+- [Delete user group](https://docs.platform.softwareone.com/developer-resources/rest-api/accounts-api/user-groups/delete-user-group.md)
+- [Audit API](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api.md): Use the Audit API to track and retrieve activity logs programmatically.
+- [Audit](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-record.md)
+- [Audit Record](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-record-1.md)
+- [Create audit record](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-record-1/create-audit-record.md)
+- [List audit records](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-record-1/list-audit-records.md)
+- [Get audit records](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-record-1/get-audit-records.md)
+- [Audit Event Type](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-event-type.md)
+- [List audit event types](https://docs.platform.softwareone.com/developer-resources/rest-api/audit-api/audit-event-type/list-audit-event-types.md)
+- [Billing API](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api.md): Use the Billing API to manage invoices, journals, and other billing operations programmatically.
+- [Billing Attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/billing-attachment.md)
+- [Credit Memo](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/state-diagram.md)
+- [Credit memo line](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/credit-memo-lines.md)
+- [Create credit memo](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/create-credit-memo.md)
+- [List credit memos](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/list-credit-memos.md)
+- [Get credit memo](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/get-credit-memo.md)
+- [Update credit memo](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/update-credit-memo.md)
+- [Create credit memo attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/create-credit-memo-attachment.md)
+- [List credit memo attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/list-credit-memo-attachments.md)
+- [Get credit memo attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/get-credit-memo-attachment.md)
+- [Update credit memo attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/update-credit-memo-attachment.md)
+- [Delete credit memo attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/credit-memo/delete-credit-memo-attachment.md)
+- [Custom Ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/state-diagram.md)
+- [Create custom ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/create-custom-ledger.md)
+- [List custom ledgers](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/list-custom-ledgers.md)
+- [Get custom ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/get-custom-ledger.md)
+- [Update custom ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/update-custom-ledger.md)
+- [Delete custom ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/delete-custom-ledger.md)
+- [Upload charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/upload-charges-for-custom-ledger.md)
+- [Accept custom ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/accept-custom-ledger.md)
+- [List custom ledger charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/list-custom-ledger-charges.md)
+- [Get custom ledger charge](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/get-custom-ledger-charge.md)
+- [Create custom ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/create-custom-ledger-attachment.md)
+- [List custom ledger attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/list-custom-ledger-attachments.md)
+- [Get custom ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/get-custom-ledger-attachment.md)
+- [Delete custom ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/custom-ledger-object/delete-custom-ledger-attachment.md)
+- [Invoice](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice.md)
+- [Invoice Line](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/invoice-line.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/state-diagram.md)
+- [Create invoice](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/create-invoice.md)
+- [List invoices](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/list-invoices.md)
+- [Get invoice](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/get-invoice.md)
+- [Update invoice](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/update-invoice.md)
+- [Create invoice attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/create-invoice-attachment.md)
+- [List invoice attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/list-invoice-attachments.md)
+- [Get invoice attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/get-invoice-attachment.md)
+- [Delete invoice attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/delete-invoice-attachment.md)
+- [Update invoice attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/invoice/update-invoice-attachment.md)
+- [Journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/state-diagram.md)
+- [Create journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/create-journal.md)
+- [List journals](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/list-journals.md)
+- [Get journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/get-journal.md)
+- [Update journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/update-journal.md)
+- [Delete journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/delete-journal.md)
+- [Upload journal charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/upload-journal-charges.md)
+- [Submit journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/submit-journal.md)
+- [Regenerate journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/regenerate-journal.md)
+- [Enquire journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/inquire-journal.md)
+- [Accept journal](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/accept-journal.md)
+- [Get journal sellers](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal/get-sellers-for-a-journal.md)
+- [Journal Charge](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-charges.md)
+- [List  journal charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-charges/list-journal-charges.md)
+- [Get journal charge](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-charges/get-journal-charge.md)
+- [Journal Attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-attachment.md)
+- [Create journal attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-attachment/create-journal-attachment.md)
+- [List journal attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-attachment/list-journal-attachements.md)
+- [Get journal attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-attachment/get-journal-attachment.md)
+- [Delete journal attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/journal-attachment/delete-journal-attachment.md)
+- [Ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger.md)
+- [List ledgers](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/list-ledgers.md)
+- [Get ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/get-ledger.md)
+- [Update ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/update-ledger.md)
+- [Recalculate ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/recalculate-ledger.md)
+- [Accept ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/accept-ledger.md)
+- [Queue ledger](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/queue-ledger.md)
+- [List ledger charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/list-ledger-charges.md)
+- [Get ledger charge](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/get-ledger-charge.md)
+- [Create ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/create-ledger-attachment.md)
+- [List ledger attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/list-ledger-attachments.md)
+- [Get ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/get-ledger-attachment.md)
+- [Update ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/update-ledger-attachment.md)
+- [Delete ledger attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/ledger/delete-ledger-attachment.md)
+- [Override](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/override.md)
+- [Create override](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/override/create-override.md)
+- [List overrides](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/override/list-overrides.md)
+- [Get override](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/override/get-override.md)
+- [Update override](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/override/update-override.md)
+- [Statement](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/state-diagram.md)
+- [List statements](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/list-statements.md)
+- [Get statement](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/get-statement.md)
+- [Retry statement](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/retry-failed-statement.md)
+- [Recalculate statement](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/recalculate-statement.md)
+- [Cancel statement](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/cancel-statement.md)
+- [List statement charges](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/list-statement-charges.md)
+- [Get statement charge](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/get-statement-charge.md)
+- [List statement attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/list-statement-attachments.md)
+- [Create statement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/create-statement-attachment.md)
+- [Get statement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/get-statement-attachment.md)
+- [Update statement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/update-statement-attachment.md)
+- [Delete statement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/billing-api/statement/delete-statement-attachment.md)
+- [Catalog API](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api.md): Manage your products programmatically using the Catalog API.
+- [Authorization](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/state-diagram.md)
+- [Create authorization](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/create-authorization.md)
+- [List authorizations](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/list-authorizations.md)
+- [Get authorization](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/get-authorization.md)
+- [Update authorization](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/update-authorization.md)
+- [Delete authorization](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/authorization/delete-authorization.md)
+- [Document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/documentation-states.md)
+- [Create document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/create-document.md)
+- [Get document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/get-document.md)
+- [List documents](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/list-documents.md)
+- [Update document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/update-document.md)
+- [Delete document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/delete-document.md)
+- [Publish document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/publish-document.md)
+- [Mark document for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/mark-document-for-review.md)
+- [Unpublish document](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/documentation/unpublish-document.md)
+- [Item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/item-states.md)
+- [Create item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/create-item.md)
+- [List items](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/list-items.md)
+- [Get item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/get-item.md)
+- [Update item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/update-item.md)
+- [Delete item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/delete-item.md)
+- [Mark item for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/mark-item-for-review.md)
+- [Publish item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/publish-item.md)
+- [Unpublish item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/items/unpublish-item.md)
+- [Item Group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/group-states.md)
+- [Create item group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/create-item-group.md)
+- [List item groups](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/list-item-groups.md)
+- [Get item group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/get-item-group.md)
+- [Update item group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/update-item-group.md)
+- [Delete item group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/item-group/delete-item-group.md)
+- [Listing](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/state-diagram.md)
+- [Create listing](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/create-listing.md)
+- [List listings](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/get-listings.md)
+- [Get listing](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/get-listing.md)
+- [Update listing](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/update-listing.md)
+- [Delete listing](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/listing/delete-listing.md)
+- [Media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/media-states.md)
+- [Create product media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/create-product-media.md)
+- [Get product media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/get-product-media.md)
+- [List product media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/list-product-media.md)
+- [Update product media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/update-media.md)
+- [Publish media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/publish-media.md)
+- [Unpublish media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/unpublish-media.md)
+- [Mark media for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/mark-media-for-review.md)
+- [Delete product media](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/media/delete-media.md)
+- [Parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/parameter-states.md)
+- [Create parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/create-product-parameter.md)
+- [List Product Parameters](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/list-product-parameters.md)
+- [Update Product Parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/update-product-parameter.md)
+- [Get Product Parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/get-product-parameter.md)
+- [Delete Product Parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/delete-product-parameter.md)
+- [Constraints Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/constraints-object.md)
+- [Single Line Text Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/single-line-text-options-object.md)
+- [Multi-Line Text Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/multi-line-text-options-object.md)
+- [Address Parameter Type](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/address-parameter-type.md)
+- [Checkbox Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/checkbox-options-object.md)
+- [Choice Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/choice-options-object.md)
+- [Contact Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/contact-options-object.md)
+- [Data Object Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/data-object-options-object.md)
+- [Date Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/date-options-object.md)
+- [Dropdown Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/dropdown-options-object.md)
+- [Email Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/email-options-object.md)
+- [Subdomain Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/subdomain-options-object.md)
+- [Heading Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/heading-options-object.md)
+- [Selection Option Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/selection-option-object.md)
+- [Date Range Options Object](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter/date-range-options-object.md)
+- [Parameter Group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/group-states.md)
+- [Create parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/create-parameter-group.md)
+- [List parameter groups](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/list-parameter-groups.md)
+- [Get parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/get-parameter-group.md)
+- [Update parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/update-parameter-group.md)
+- [Delete parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/parameter-group/delete-parameter-group.md)
+- [Price List](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/pricelist-states.md)
+- [Create pricelist](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/create-pricelist.md)
+- [List pricelists](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/list-pricelists.md)
+- [Get pricelist](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/get-pricelist.md)
+- [Update pricelist](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/update-pricelist.md)
+- [Delete pricelist](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelists/delete-pricelist.md)
+- [Price List Item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelist-item.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelist-item/pricelist-states.md)
+- [List pricelist items](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelist-item/list-pricelist-items.md)
+- [Get pricelist item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelist-item/get-pricelist-item.md)
+- [Update pricelist item](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricelist-item/update-pricelist-item.md)
+- [Pricing Policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies.md)
+- [Create pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/create-pricing-policy.md)
+- [List pricing policies](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/list-pricing-policies.md)
+- [Get pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/get-pricing-policy.md)
+- [Update pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/update-pricing-policy.md)
+- [Delete pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/delete-pricing-policy.md)
+- [Activate pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/activate-pricing-policy.md)
+- [Deactivate pricing policy](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/deactivate-pricing-policy.md)
+- [List pricing policy attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/list-pricing-policy-attachments.md)
+- [Get pricing policy attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/get-pricing-policy-attachment.md)
+- [Create pricing policy attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/create-pricing-policy-attachment.md)
+- [Update pricing policy attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/update-pricing-policy-attachment.md)
+- [Delete pricing policy attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/pricing-policies/delete-pricing-policy-attachment.md)
+- [Product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/product-states.md)
+- [Create product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/create-product.md)
+- [List products](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/list-products.md)
+- [Get product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/get-product.md)
+- [Update product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/update-product.md)
+- [Delete product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/delete-product.md)
+- [Mark product for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/mark-product-for-review.md)
+- [Publish product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/publish-product.md)
+- [Unpublish product](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/unpublish-product.md)
+- [Update product settings](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/product/update-product-settings.md)
+- [Template](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/templates-states.md)
+- [Create template](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/create-template.md)
+- [List templates](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/list-templates.md)
+- [Get template](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/get-template.md)
+- [Update template](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/update-template.md)
+- [Delete template](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/templates/delete-template.md)
+- [Terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/terms-and-conditions-states.md)
+- [Create terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/create-terms.md)
+- [List terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/list-terms.md)
+- [Get terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/get-terms.md)
+- [Update terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/update-terms.md)
+- [Mark terms for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/mark-terms-for-review.md)
+- [Publish terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/publish-terms.md)
+- [Unpublish terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/terms-and-conditions/unpublish-terms.md)
+- [Unit of Measure](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/units-of-measure.md)
+- [Create unit of measure](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/units-of-measure/create-unit-of-measure.md)
+- [List unit of measure](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/units-of-measure/list-unit-of-measure.md)
+- [Get unit of measure](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/units-of-measure/get-unit-of-measure.md)
+- [Update unit of measure](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/units-of-measure/update-unit-of-measure.md)
+- [Variant](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants.md)
+- [Create variant](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/create-variant.md)
+- [List variants](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/list-variants.md)
+- [Delete variant](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/delete-variant.md)
+- [Get variant for terms](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/get-variant-for-terms.md)
+- [Mark variant for review](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/mark-variant-for-review.md)
+- [Publish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/publish-variant.md)
+- [Unpublish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/catalog-api/variants/unpublish-variant.md)
+- [Commerce API](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api.md): Use the Commerce API to manage orders, subscriptions, and agreements programmatically.
+- [Asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/state-diagram.md)
+- [Create asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/create-asset.md)
+- [Update asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/update-asset.md)
+- [List assets](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/list-assets.md)
+- [Get asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/get-asset.md)
+- [Terminate asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/terminate-asset.md)
+- [Render asset template](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/assets/render-asset-template.md)
+- [Agreement](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/agreement-state-diagram.md)
+- [Create agreement](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/create-agreement.md)
+- [List agreements](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/list-agreements.md)
+- [Get agreement](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/get-agreement.md)
+- [Update agreement](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/update-agreement.md)
+- [Render agreement template](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/render-agreement-template.md)
+- [Create agreement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/create-agreement-attachment.md)
+- [List agreement attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/list-agreement-attachments.md)
+- [Get agreement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/get-agreement-attachment.md)
+- [Delete agreement attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/agreements/delete-agreement-attachment.md)
+- [Line](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/line.md)
+- [Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests.md)
+- [State Diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/request-states.md)
+- [Create Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/create-request.md)
+- [Update Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/update-request.md)
+- [List Requests](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/list-requests.md)
+- [Get Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/get-request.md)
+- [Validate Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/validate-request.md)
+- [Process Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/process-request.md)
+- [Query Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/query-request.md)
+- [Complete Request](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/complete-request.md)
+- [Requests Messages](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-messages.md)
+- [List Request Messages](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-messages/list-request-messages.md)
+- [Get Request Message](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-messages/get-request-message.md)
+- [Create Request Message](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-messages/create-request-message.md)
+- [Requests Attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-attachments.md)
+- [Create Request Attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-attachments/create-request-attachment.md)
+- [List Request Attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-attachments/list-request-attachments.md)
+- [Get Request Attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-attachments/get-request-attachment.md)
+- [Delete Request Attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/requests/requests-attachments/delete-request-attachment.md)
+- [Order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/order-state-diagram.md)
+- [Create order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/create-new-order.md)
+- [Update order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/update-order.md)
+- [List orders](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/list-orders.md)
+- [Get order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/get-order.md)
+- [Validate order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/validate-order.md)
+- [Process order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/process-order.md)
+- [Query order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/query-order.md)
+- [Complete order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/complete-order.md)
+- [Fail order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/fail-order.md)
+- [Delete order](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/delete-order.md)
+- [Render order template](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/render-order-template.md)
+- [Create order asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/create-order-asset.md)
+- [Update order asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/update-order-asset.md)
+- [List order assets](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/list-order-assets.md)
+- [Delete order asset](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/orders/delete-order-asset.md)
+- [Subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/subscription-states.md)
+- [Create subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/create-subscription.md)
+- [Update subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/update-subscription.md)
+- [List subscriptions](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/list-subscriptions.md)
+- [Get subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/get-subscription.md)
+- [Terminate subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/terminate-subscription.md)
+- [Render subscription template](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/render-subscriptions-template.md)
+- [Create order subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/create-order-subscription.md)
+- [Update order subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/update-order-subscription.md)
+- [List order subscriptions](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/list-subscriptions-1.md)
+- [Get order subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/get-order-subscription.md)
+- [Remove order subscription](https://docs.platform.softwareone.com/developer-resources/rest-api/commerce-api/subscriptions/remove-order-subscription.md)
+- [Currency API](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api.md)
+- [Currency](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency.md)
+- [Create currency](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency/create-currency.md)
+- [Update currency](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency/update-currency.md)
+- [List currencies](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency/list-currencies.md)
+- [Get currency](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency/get-currency.md)
+- [Delete currency](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/currency/delete-currency.md)
+- [Pair](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair.md)
+- [Create currency pair](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair/create-currency-pair.md)
+- [List currency pairs](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair/list-currency-pairs.md)
+- [Get currency pair](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair/get-currency-pair.md)
+- [Update currency pair](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair/update-currency-pair.md)
+- [Delete currency pairs](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/pair/delete-currency-pairs.md)
+- [Rate](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate.md)
+- [Create rate](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate/create-rate.md)
+- [List rates](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate/list-rates.md)
+- [Get rate](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate/get-rate.md)
+- [Modify rates](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate/modify-rates.md)
+- [Delete rates](https://docs.platform.softwareone.com/developer-resources/rest-api/currency-api/rate/delete-rates.md)
+- [Extensions API](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api.md)
+- [Category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/state-diagram.md)
+- [Create category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/create-category.md)
+- [Get categories](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/get-categories.md)
+- [Get category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/get-category.md)
+- [Update category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/update-category.md)
+- [Activate category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/activate-category.md)
+- [Deactivate category](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/category/deactivate-category.md)
+- [Document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document.md)
+- [Create document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/create-document.md)
+- [List documents](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/list-documents.md)
+- [Get document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/get-document.md)
+- [Update document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/update-document.md)
+- [Publish document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/publish-document.md)
+- [Unpublish document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/unpublish-document.md)
+- [Delete document](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/document/delete-document.md)
+- [Extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/state-diagram.md)
+- [Create extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/create-extension.md)
+- [List extensions](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/list-extensions.md)
+- [Get extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/get-extension.md)
+- [Update extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/update-extension.md)
+- [Delete extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/delete-extension.md)
+- [Publish extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/publish-extension.md)
+- [Unpublish extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/extension/unpublish-extension.md)
+- [Media](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media.md)
+- [Create extension media](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/create-extension-media.md)
+- [List extension media](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/list-extension-media.md)
+- [Get extension media](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/get-extension-media.md)
+- [Update media for extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/update-media-for-extension.md)
+- [Publish media for extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/publish-media-for-extension.md)
+- [Unpublish media for extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/unpublish-media-for-extension.md)
+- [Delete media for extension](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/media/delete-media-for-extension.md)
+- [Terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms.md)
+- [Create terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/create-terms.md)
+- [List terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/list-terms.md)
+- [Get terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/get-terms.md)
+- [Update terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/update-terms.md)
+- [Publish terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/publish-terms.md)
+- [Unpublish terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/unpublish-terms.md)
+- [Delete terms](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/terms/delete-terms.md)
+- [Variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant.md)
+- [Create variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/create-variant.md)
+- [List variants](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/list-variants.md)
+- [Get variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/get-variant.md)
+- [Update variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/update-variant.md)
+- [Publish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/publish-variant.md)
+- [Unpublish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/unpublish-variant.md)
+- [Delete variant](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/variant/delete-variant.md)
+- [Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting.md)
+- [Create Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/create-hosting.md)
+- [List Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/list-hosting.md)
+- [Get Extension Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/get-extension-hosting.md)
+- [Update Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/update-hosting.md)
+- [Delete Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/delete-hosting.md)
+- [List Extension Hosting](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/hosting/list-extension-hosting.md)
+- [Instance](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/instance.md)
+- [Create extension instance](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/instance/create-extension-instance.md)
+- [List extension instance](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/instance/list-extension-instance.md)
+- [Get extension instance](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/instance/get-extension-instance.md)
+- [Installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation.md)
+- [Invitation object](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/invitation-object.md)
+- [Create installation or invitation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/create-installation-or-invitation.md)
+- [List installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/list-installation.md)
+- [Get installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/get-installation.md)
+- [Update installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/update-installation.md)
+- [Delete installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/delete-installation.md)
+- [List installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/list-installation-1.md)
+- [Get installation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/get-installation-1.md)
+- [Redeem invitation](https://docs.platform.softwareone.com/developer-resources/rest-api/extensions-api/installation/redeem-invitation.md)
+- [Helpdesk API](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api.md)
+- [Case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case.md)
+- [Create case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/create-case.md)
+- [Complete case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/complete-case.md)
+- [List cases](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/list-cases.md)
+- [Get case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/get-case.md)
+- [Update case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/update-case.md)
+- [Query case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/query-case.md)
+- [Process case](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/case/process-case.md)
+- [Chat](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat.md)
+- [Create chat](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/create-chat.md)
+- [List chats](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/list-chats.md)
+- [Get chat](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/get-chat.md)
+- [Update chat](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/update-chat.md)
+- [Add chat participants](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/add-chat-participants.md)
+- [List chat participants](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/list-chat-participants.md)
+- [Get chat participant](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/get-chat-participant.md)
+- [Update chat participant](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/update-chat-participant.md)
+- [Remove chat participant](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/remove-chat-participant.md)
+- [List chat messages](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/list-chat-messages.md)
+- [Create chat message](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/create-chat-message.md)
+- [Update chat message](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/update-chat-message.md)
+- [Delete chat message](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/delete-chat-message.md)
+- [List chat attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/list-chat-attachments.md)
+- [Get chat attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/get-chat-attachment.md)
+- [Add chat attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/add-chat-attachment.md)
+- [Update chat attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/update-chat-attachment.md)
+- [Delete chat attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/delete-chat-attachment.md)
+- [Create chat link](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/create-chat-link.md)
+- [List chat links](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/list-chat-links.md)
+- [Update chat link](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/update-chat-link.md)
+- [Delete chat link](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/chat/delete-chat-link.md)
+- [Feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/state-diagram.md)
+- [Create feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/create-feedback.md)
+- [List feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/list-feedback.md)
+- [Get feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/get-feedback.md)
+- [Delete feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/delete-feedback.md)
+- [Update feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/update-feedback.md)
+- [Review feedback](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/review-feedback.md)
+- [Add feedback attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/add-feedback-attachment.md)
+- [List feedback attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/list-feedback-attachments.md)
+- [Get feedback attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/get-feedback-attachment.md)
+- [Delete feedback attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/feedback/delete-feedback-attachment.md)
+- [Form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form.md)
+- [Create form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/create-form.md)
+- [List forms](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/list-forms.md)
+- [Get form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/get-form.md)
+- [Update form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/update-form.md)
+- [Publish form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/publish-form.md)
+- [Unpublish form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/unpublish-form.md)
+- [Delete form](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/form/delete-form.md)
+- [Parameter Definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition.md)
+- [Create parameter definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition/create-parameter-definition.md)
+- [List parameter definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition/list-parameter-definition.md)
+- [Get parameter definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition/get-parameter-definition.md)
+- [Update parameter definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition/update-parameter-definition.md)
+- [Delete Parameter Definition](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-definition/delete-parameter-definition.md)
+- [Parameter Group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group.md)
+- [Create parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/create-parameter-group.md)
+- [List parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/list-parameter-group.md)
+- [Get parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/get-parameter-group.md)
+- [Update parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/update-parameter-group.md)
+- [Delete parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/delete-parameter-group.md)
+- [List parameters in a parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/list-parameters-in-a-parameter-group.md)
+- [Get parameter in a parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/get-parameter-in-a-parameter-group.md)
+- [Add parameter to group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/add-parameter-to-group.md)
+- [Update parameter in group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/update-parameter-in-group.md)
+- [Remove parameter from group](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/parameter-group/remove-parameter-from-group.md)
+- [Queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue.md)
+- [Create queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/create-queue.md)
+- [List queues](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/list-queues.md)
+- [Get queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/get-queue.md)
+- [Update queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/update-queue.md)
+- [Delete queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/delete-queue.md)
+- [Activate queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/activate-queue.md)
+- [Disable queue](https://docs.platform.softwareone.com/developer-resources/rest-api/helpdesk-api/queue/disable-queue.md)
+- [Notifications API](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api.md): Manage notifications, categories, and contacts with the Notifications API.
+- [Batch](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches/state-diagram.md)
+- [Create batch](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches/create-batch.md)
+- [List batches](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches/list-batches.md)
+- [Get batch](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches/get-batch.md)
+- [Get batch attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/batches/get-batch-attachment.md)
+- [Category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/state-diagram.md)
+- [Create category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/create-category.md)
+- [Update category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/update-category.md)
+- [List categories](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/list-categories.md)
+- [Get category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/get-category.md)
+- [Delete category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/delete-category.md)
+- [Publish category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/publish-category.md)
+- [Unpublish category](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/categories/unpublish-category.md)
+- [Contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/state-diagram.md)
+- [Create contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/create-contact.md)
+- [Update contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/update-contact.md)
+- [List contacts](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/list-contacts.md)
+- [Get contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/get-contact.md)
+- [Delete contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/delete-contact.md)
+- [Block contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/block-contact.md)
+- [Unblock contact](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/contacts/unblock-contact.md)
+- [Footer](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/state-diagram.md)
+- [Create footer](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/create-footer.md)
+- [Get footer](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/get-footer.md)
+- [List footers](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/list-footers.md)
+- [Update footer](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/update-footer.md)
+- [Delete footer](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/footer/delete-footer.md)
+- [Message](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/messages.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/messages/notification-state-diagram.md)
+- [List messages](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/messages/list-messages.md)
+- [Get message](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/messages/get-message.md)
+- [Subscriber](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/state-diagram.md)
+- [List subscribers](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/list-subscribers.md)
+- [Get subscriber](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/get-subscriber.md)
+- [Disable subscriber](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/disable-subscriber.md)
+- [Enable subscriber](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/enable-subscriber.md)
+- [Update subscriber](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/update-subscriber.md)
+- [Get contacts for category and account](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/subscribers/get-contacts-within-account-and-category.md)
+- [Template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/state-diagram.md)
+- [List templates](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/list-templates.md)
+- [Get template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/get-template.md)
+- [Create template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/create-template.md)
+- [Update template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/update-template.md)
+- [Delete template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/delete-template.md)
+- [Activate template](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template/activate-template.md)
+- [Template Variant](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/state-diagram.md)
+- [Create template variant](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/create-template-variant.md)
+- [List template variants](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/list-template-variants.md)
+- [Get template variant](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/get-template-variant.md)
+- [Update template variant](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/update-template-variant.md)
+- [Delete template variant](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/template-variant/delete-template-variant.md)
+- [Webhook API](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api.md)
+- [List webhooks](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/list-webhooks.md)
+- [Get webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/get-webhook.md)
+- [Create webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/create-webhook.md)
+- [Update webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/update-webhook.md)
+- [Enable webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/enable-webhook.md)
+- [Disable webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/disable-webhook.md)
+- [Delete webhook](https://docs.platform.softwareone.com/developer-resources/rest-api/notifications-api/webhook-api/delete-webhook.md)
+- [Product Catalog API](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api.md)
+- [Vendor Profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/state-diagram.md)
+- [Create vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/create-vendor-profile.md)
+- [List vendor profiles](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/list-vendor-profiles.md)
+- [Get vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/get-vendor-profile.md)
+- [Publish vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/publish-vendor-profile.md)
+- [Unpublish vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/unpublish-vendor-profile.md)
+- [Update vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/update-vendor-profile.md)
+- [Delete vendor profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/vendor-profile/delete-vendor-profile.md)
+- [Product Profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/state-diagram.md)
+- [Create product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/create-product-profile.md)
+- [List product profiles](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/list-product-profiles.md)
+- [Get product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/get-product-profile.md)
+- [Publish product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/publish-product-profile.md)
+- [Unpublish product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/unpublish-product-profile.md)
+- [Update product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/update-product-profile.md)
+- [Delete product profile](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/product-profile/delete-product-profile.md)
+- [Category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/state-diagram.md)
+- [Create category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/create-category.md)
+- [List categories](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/list-categories.md)
+- [Get category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/get-category.md)
+- [Publish category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/publish-category.md)
+- [Unpublish category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/unpublish-category.md)
+- [Update category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/update-category.md)
+- [Delete category](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/category/delete-category.md)
+- [Industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/state-diagram.md)
+- [Create industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/create-industry.md)
+- [List industries](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/list-industries.md)
+- [Get industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/get-industry.md)
+- [Publish industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/publish-industry.md)
+- [Unpublish industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/unpublish-industry.md)
+- [Modify industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/modify-industry.md)
+- [Delete industry](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/industry/delete-industry.md)
+- [Segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/state-diagram.md)
+- [Create segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/create-segment.md)
+- [List segments](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/list-segments.md)
+- [Get segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/get-segment.md)
+- [Publish segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/publish-segment.md)
+- [Unpublish segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/unpublish-segment.md)
+- [Update segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/update-segment.md)
+- [Delete segment](https://docs.platform.softwareone.com/developer-resources/rest-api/product-catalog-api/segment/delete-segment.md)
+- [Program API](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api.md): Manage programs, certificates, and enrollments with the Program API.
+- [Certificate](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/certificate-state-diagram.md)
+- [Create certificate](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/create-certificate.md)
+- [List certificates](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/list-certificates.md)
+- [Get certificate](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/get-certificate.md)
+- [Update certificate](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/update-certificate.md)
+- [Terminate certificate](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/certificate/terminate-certificate.md)
+- [Enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-state-diagram.md)
+- [Create enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/create-enrollment.md)
+- [Validate draft enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/validate-draft-enrollment.md)
+- [List enrollments](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/list-enrollments.md)
+- [Get enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/get-enrollment.md)
+- [Validate querying enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/validate-querying-enrollment.md)
+- [Process enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/process-enrollment.md)
+- [Query enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/query-enrollment.md)
+- [Complete enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/complete-enrollment.md)
+- [Fail enrollment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/fail-enrollment.md)
+- [Render enrollment template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/render-enrollment-template.md)
+- [Enrollment attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment.md)
+- [Create enrollment attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment/create-enrollment-attachment.md)
+- [Get enrollment attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment/get-enrollment-attachment.md)
+- [List enrollment attachments](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment/list-enrollment-attachments.md)
+- [Update enrollment attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment/update-enrollment-attachment.md)
+- [Delete enrollment attachment](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/enrollment/enrollment-attachment/delete-enrollment-attachment.md)
+- [Program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program.md)
+- [State diagram](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-state-diagram.md)
+- [Create program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/create-program.md)
+- [List programs](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/list-programs.md)
+- [Get program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/get-program.md)
+- [Update program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/update-program.md)
+- [Delete program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/delete-program.md)
+- [Publish program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/publish-program.md)
+- [Unpublish program](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/unpublish-program.md)
+- [Update program settings](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/update-program-settings.md)
+- [Program Parameter Group](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups.md)
+- [Create parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups/create-parameter-group.md)
+- [List parameter groups](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups/list-parameter-groups.md)
+- [Get parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups/get-parameter-group.md)
+- [Update parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups/update-parameter-group.md)
+- [Delete parameter group](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameter-groups/delete-parameter-group.md)
+- [Program Parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters.md)
+- [Create program parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters/create-parameter.md)
+- [List program parameters](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters/list-program-parameters.md)
+- [Update program parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters/update-program-parameter.md)
+- [Get program parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters/get-program-parameter.md)
+- [Delete program parameter](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-parameters/delete-program-parameter.md)
+- [Program Document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents.md)
+- [List documents](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/list-documents.md)
+- [Create document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/create-document.md)
+- [Get document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/get-document.md)
+- [delete document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/delete-document.md)
+- [Update document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/update-document.md)
+- [Publish document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/publish-document.md)
+- [Unpublish document](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-documents/unpublish-document.md)
+- [Program Media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media.md)
+- [Create program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/create-media.md)
+- [List program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/list-media.md)
+- [Get program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/get-media.md)
+- [Update program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/update-media.md)
+- [Publish program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/publish-media.md)
+- [Unpublish program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/unpublish-media.md)
+- [Delete program media](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-media/delete-media.md)
+- [Program Terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms.md)
+- [Create program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/create-terms.md)
+- [List program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/list-terms.md)
+- [Delete program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/delete-terms.md)
+- [Get program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/get-terms.md)
+- [Update program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/update-terms.md)
+- [Publish program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/publish-terms.md)
+- [Unpublish program terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms/unpublish-terms.md)
+- [Program Terms Variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants.md)
+- [Create variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/create-variant.md)
+- [List variants](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/list-variants.md)
+- [Delete variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/delete-variant.md)
+- [Get variant for terms](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/get-variant-for-terms.md)
+- [Update variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/update-variant.md)
+- [Publish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/publish-variant.md)
+- [Unpublish variant](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-terms-variants/unpublish-variant.md)
+- [Program Template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates.md)
+- [Create program template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates/create-program-template.md)
+- [List program templates](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates/list-program-templates.md)
+- [Update program template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates/update-program-template.md)
+- [Get program template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates/get-program-template.md)
+- [Delete program template](https://docs.platform.softwareone.com/developer-resources/rest-api/program-api/program/program-templates/delete-program-template.md)
+- [Spotlight API](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api.md): Use the Spotlight API to highlight key platform objects requiring attention.
+- [Spotlight](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-object.md)
+- [Spotlight Top Item](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-object/spotlight-topitem.md)
+- [List spotlight objects](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-object/list-spotlighted-objects.md)
+- [Invalidate cache](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-object/invalidate-cache.md)
+- [Invalidate all cache](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-object/invalidate-all-cache.md)
+- [Spotlight Query](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-query.md)
+- [List spotlight queries](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-query/list-spotlight-queries.md)
+- [Get spotlight query](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-query/get-spotlight-query.md)
+- [Update spotlight query](https://docs.platform.softwareone.com/developer-resources/rest-api/spotlight-objects-api/spotlight-query/update-spotlight-query.md)
+- [Task API](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api.md)
+- [Task](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task.md)
+- [Create task](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/create-task.md)
+- [List tasks](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/list-tasks.md)
+- [Get task](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/get-task.md)
+- [Update task](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/update-task.md)
+- [Get task result](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/get-task-result.md)
+- [Set task status to processing](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/set-task-status-to-processing.md)
+- [Set task status to queued](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/set-task-status-to-queued.md)
+- [Set task status to completed](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/set-task-status-to-completed.md)
+- [Set task status to rescheduled](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/set-task-status-to-rescheduled.md)
+- [Set task status to failed](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task/set-task-status-to-failed.md)
+- [Task Log](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task-log.md)
+- [Get task logs](https://docs.platform.softwareone.com/developer-resources/rest-api/task-api/task-log/get-task-logs.md)
+- [API usage & reference](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference.md)
+- [Resource Query Language](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/resource-query-language.md): Learn about Resource Query Language and how to use it.
+- [RQL advanced tips](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/resource-query-language/rql-advanced-tips.md): Advanced RQL patterns, pitfalls, and best practices from real-world API usage.
+- [URL structure](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/url-structure.md): Learn how to map between Portal URLs and API endpoints for Marketplace Platform objects.
+- [Error handling](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/errors-handling.md): Understand Marketplace API errors and status codes.
+- [Common API objects](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects.md)
+- [Address](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/address.md)
+- [Audit](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/audit.md)
+- [Single Date Parameter Value](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/date.md)
+- [Date Range Parameter Value](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/date-range.md)
+- [Error](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/error.md)
+- [External IDs](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/externalids.md)
+- [Message](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/message.md)
+- [Order Parameter](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/order-parameter.md)
+- [Phone Number](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/phone-number.md)
+- [Price](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/price.md)
+- [Terms](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/common-api-objects/terms.md)
+- [Business objects & API collections](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/business-objects-and-api-collections.md)
+- [Objects diagrams](https://docs.platform.softwareone.com/developer-resources/api-usage-and-reference/object-diagrams.md): View the state transition diagrams for various objects in the platform.
+- [Model context protocol](https://docs.platform.softwareone.com/developer-resources/mcp-server.md): Learn about the Marketplace MCP Server and how to use it to connect AI assistants to the SoftwareOne Marketplace API.
+- [MCP use cases](https://docs.platform.softwareone.com/developer-resources/mcp-server/mcp-use-cases.md): Learn how to use the SoftwareOne MCP Server for intelligent automation.
+- [MCP server setup](https://docs.platform.softwareone.com/developer-resources/mcp-server/mcp-server-setup.md): Step-by-step guide to configuring your AI tools to talk to SoftwareOne.
+- [Additional resources](https://docs.platform.softwareone.com/developer-resources/additional-resources.md)
+- [Open source](https://docs.platform.softwareone.com/developer-resources/additional-resources/open-source.md): Get familiar with open source at SoftwareOne.
+- [Contributor license agreement](https://docs.platform.softwareone.com/developer-resources/additional-resources/open-source/contributor-license-agreement.md): Review our Individual Contributor License Agreement (CLA).
+- [Third-party licenses](https://docs.platform.softwareone.com/developer-resources/additional-resources/open-source/third-party-licenses.md): Learn about our open-source components and their licensing.
+- [App overview](https://docs.platform.softwareone.com/marketplace-mobile-app/app-overview.md): Access your Marketplace account from your mobile device.
+- [Get started with the app](https://docs.platform.softwareone.com/marketplace-mobile-app/app-overview/get-started-with-the-app.md): Learn how to use the mobile app version of the SoftwareOne Marketplace.
+- [Mobile app FAQs](https://docs.platform.softwareone.com/marketplace-mobile-app/mobile-app-faqs.md): Get answers to frequently asked questions.
+- [Release notes](https://docs.platform.softwareone.com/marketplace-mobile-app/release-notes.md): Find the latest updates and improvements to the SoftwareOne mobile app.
+- [Contact support](https://docs.platform.softwareone.com/help-and-support/contact-support.md): Learn how to get in touch with Marketplace Platform Support.
+- [Share feedback](https://docs.platform.softwareone.com/help-and-support/share-feedback.md)
+- [Platform FAQs](https://docs.platform.softwareone.com/help-and-support/faqs.md): Find answers to some of the commonly asked questions.
+- [What billing models does Marketplace support for items?](https://docs.platform.softwareone.com/help-and-support/faqs/what-billing-models-does-marketplace-support-for-items.md)
+- [My draft or quoted order has been deleted](https://docs.platform.softwareone.com/help-and-support/faqs/my-draft-or-quoted-order-has-been-deleted.md)
+- [How do you handle purchase order numbers in subscription-based models?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
+- [What happens to an agreement when subscriptions expire or are terminated?](https://docs.platform.softwareone.com/help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
+- [How does the Marketplace purchase wizard work?](https://docs.platform.softwareone.com/help-and-support/faqs/buy-products-and-services.md)
+- [How do I change the language in my account?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-change-the-language-in-my-account.md)
+- [How do I update my password?](https://docs.platform.softwareone.com/help-and-support/faqs/update-password.md)
+- [Which browsers do you support?](https://docs.platform.softwareone.com/help-and-support/faqs/which-browsers-do-you-support.md)
+- [I'm unable to view the Reserved Instance data](https://docs.platform.softwareone.com/help-and-support/faqs/im-unable-to-view-the-reserved-instance-data.md)
+- [How do I set up SSO?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-set-up-sso.md)
+- [How do I configure conditional access policies?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-configure-conditional-access-policies.md)
+- [How do I resolve AWS recommendation errors?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-resolve-aws-recommendation-errors.md)
+- [How does the platform connect to my Azure tenant?](https://docs.platform.softwareone.com/help-and-support/faqs/how-does-the-platform-connect-to-my-azure-tenant.md)
+- [I have questions about access tokens and consent](https://docs.platform.softwareone.com/help-and-support/faqs/i-have-questions-about-access-tokens-and-consent.md)
+- [Why isn't my Azure billing data up to date?](https://docs.platform.softwareone.com/help-and-support/faqs/why-isnt-my-azure-billing-data-up-to-date.md)
+- [How does the platform access my Microsoft tenant under CSP?](https://docs.platform.softwareone.com/help-and-support/faqs/how-does-the-platform-access-my-microsoft-tenant-under-csp.md)
+- [How do I connect the Microsoft tenant for data collection?](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-connect-the-microsoft-tenant-for-data-collection.md)
+- [My 365 Analytics report is empty](https://docs.platform.softwareone.com/help-and-support/faqs/my-365-analytics-report-is-empty.md)
+- [What data do you collect for 365 Analytics](https://docs.platform.softwareone.com/help-and-support/faqs/what-data-do-you-collect-for-365-analytics.md)
+- [Release notes](https://docs.platform.softwareone.com/help-and-support/release-notes.md): View release notes containing new features and improvements across the platform.
+- [Release notes v5](https://docs.platform.softwareone.com/help-and-support/release-notes/release-notes-v5.md): Learn what's new in this release.
+- [Release notes v4](https://docs.platform.softwareone.com/help-and-support/release-notes/release-notes-v4.md)
+- [Release notes v3](https://docs.platform.softwareone.com/help-and-support/release-notes/release-notes-v3.md): Learn what's new in this release.
+- [Release notes v2](https://docs.platform.softwareone.com/help-and-support/release-notes/release-notes-v2.md): Learn what's new in this release.
+- [Release notes v1](https://docs.platform.softwareone.com/help-and-support/release-notes/release-notes-v1.md): Meet the new SoftwareOne Client Portal and learn what's new in this release.
+- [Status page](https://docs.platform.softwareone.com/help-and-support/status-page.md): Use the Status page for real‑time information about the platform.
+- [Video library](https://docs.platform.softwareone.com/help-and-support/video-library.md): Access all our video guides, tutorials, and webinars in one place.
+- [Planned maintenance](https://docs.platform.softwareone.com/help-and-support/planned-maintenance.md): Learn about planned maintenance and why it's needed.
+- [Terms of use](https://docs.platform.softwareone.com/help-and-support/terms-of-use.md): Read our terms of use carefully.
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.platform.softwareone.com/home.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

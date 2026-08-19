@@ -1,0 +1,100 @@
+{
+  "opencollection": "1.0.0",
+  "info": {
+    "name": "SoftwareOne Marketplace Platform Listings API",
+    "version": "1.0.0"
+  },
+  "request": {
+    "auth": {
+      "type": "bearer",
+      "token": "{{bearerToken}}"
+    }
+  },
+  "items": [
+    {
+      "info": {
+        "name": "Listings",
+        "type": "folder"
+      },
+      "items": [
+        {
+          "info": {
+            "name": "List listings",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/listings"
+          },
+          "docs": "List listings"
+        },
+        {
+          "info": {
+            "name": "Create listing",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/listings"
+          },
+          "docs": "Create listing"
+        },
+        {
+          "info": {
+            "name": "Retrieve listing",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/listings/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Retrieve listing"
+        },
+        {
+          "info": {
+            "name": "Update listing",
+            "type": "http"
+          },
+          "http": {
+            "method": "PUT",
+            "url": "https://api.platform.softwareone.com/catalog/listings/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Update listing"
+        },
+        {
+          "info": {
+            "name": "Delete listing",
+            "type": "http"
+          },
+          "http": {
+            "method": "DELETE",
+            "url": "https://api.platform.softwareone.com/catalog/listings/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Delete listing"
+        }
+      ]
+    }
+  ],
+  "bundled": true
+}

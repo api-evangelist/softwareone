@@ -1,0 +1,172 @@
+{
+  "opencollection": "1.0.0",
+  "info": {
+    "name": "SoftwareOne Marketplace Platform Products API",
+    "version": "1.0.0"
+  },
+  "request": {
+    "auth": {
+      "type": "bearer",
+      "token": "{{bearerToken}}"
+    }
+  },
+  "items": [
+    {
+      "info": {
+        "name": "Products",
+        "type": "folder"
+      },
+      "items": [
+        {
+          "info": {
+            "name": "List products",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/products"
+          },
+          "docs": "List products"
+        },
+        {
+          "info": {
+            "name": "Create product",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/products"
+          },
+          "docs": "Create product"
+        },
+        {
+          "info": {
+            "name": "Retrieve product",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Retrieve product"
+        },
+        {
+          "info": {
+            "name": "Update product",
+            "type": "http"
+          },
+          "http": {
+            "method": "PUT",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Update product"
+        },
+        {
+          "info": {
+            "name": "Delete product",
+            "type": "http"
+          },
+          "http": {
+            "method": "DELETE",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Delete product"
+        },
+        {
+          "info": {
+            "name": "Submit product for review",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id/mark-for-review",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Submit product for review"
+        },
+        {
+          "info": {
+            "name": "Publish product",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id/publish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Publish product"
+        },
+        {
+          "info": {
+            "name": "Unpublish product",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id/unpublish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Unpublish product"
+        },
+        {
+          "info": {
+            "name": "Update product settings",
+            "type": "http"
+          },
+          "http": {
+            "method": "PUT",
+            "url": "https://api.platform.softwareone.com/catalog/products/:id/settings",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Update product settings"
+        }
+      ]
+    }
+  ],
+  "bundled": true
+}

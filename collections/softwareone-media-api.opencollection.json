@@ -1,0 +1,143 @@
+{
+  "opencollection": "1.0.0",
+  "info": {
+    "name": "SoftwareOne Marketplace Platform Media API",
+    "version": "1.0.0"
+  },
+  "request": {
+    "auth": {
+      "type": "bearer",
+      "token": "{{bearerToken}}"
+    }
+  },
+  "items": [
+    {
+      "info": {
+        "name": "Media",
+        "type": "folder"
+      },
+      "items": [
+        {
+          "info": {
+            "name": "List media for a product",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/products/:productId/media",
+            "params": [
+              {
+                "name": "productId",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "List media for a product"
+        },
+        {
+          "info": {
+            "name": "Upload media",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/media"
+          },
+          "docs": "Upload media"
+        },
+        {
+          "info": {
+            "name": "Retrieve media",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/media/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Retrieve media"
+        },
+        {
+          "info": {
+            "name": "Update media",
+            "type": "http"
+          },
+          "http": {
+            "method": "PUT",
+            "url": "https://api.platform.softwareone.com/catalog/media/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Update media"
+        },
+        {
+          "info": {
+            "name": "Delete media",
+            "type": "http"
+          },
+          "http": {
+            "method": "DELETE",
+            "url": "https://api.platform.softwareone.com/catalog/media/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Delete media"
+        },
+        {
+          "info": {
+            "name": "Publish media",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/media/:id/publish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Publish media"
+        },
+        {
+          "info": {
+            "name": "Unpublish media",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/media/:id/unpublish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Unpublish media"
+        }
+      ]
+    }
+  ],
+  "bundled": true
+}

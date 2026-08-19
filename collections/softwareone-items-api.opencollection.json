@@ -1,0 +1,136 @@
+{
+  "opencollection": "1.0.0",
+  "info": {
+    "name": "SoftwareOne Marketplace Platform Items API",
+    "version": "1.0.0"
+  },
+  "request": {
+    "auth": {
+      "type": "bearer",
+      "token": "{{bearerToken}}"
+    }
+  },
+  "items": [
+    {
+      "info": {
+        "name": "Items",
+        "type": "folder"
+      },
+      "items": [
+        {
+          "info": {
+            "name": "List items",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/items"
+          },
+          "docs": "List items"
+        },
+        {
+          "info": {
+            "name": "Create item",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/items"
+          },
+          "docs": "Create item"
+        },
+        {
+          "info": {
+            "name": "Retrieve item",
+            "type": "http"
+          },
+          "http": {
+            "method": "GET",
+            "url": "https://api.platform.softwareone.com/catalog/items/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Retrieve item"
+        },
+        {
+          "info": {
+            "name": "Update item",
+            "type": "http"
+          },
+          "http": {
+            "method": "PUT",
+            "url": "https://api.platform.softwareone.com/catalog/items/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Update item"
+        },
+        {
+          "info": {
+            "name": "Delete item",
+            "type": "http"
+          },
+          "http": {
+            "method": "DELETE",
+            "url": "https://api.platform.softwareone.com/catalog/items/:id",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Delete item"
+        },
+        {
+          "info": {
+            "name": "Publish item",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/items/:id/publish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Publish item"
+        },
+        {
+          "info": {
+            "name": "Unpublish item",
+            "type": "http"
+          },
+          "http": {
+            "method": "POST",
+            "url": "https://api.platform.softwareone.com/catalog/items/:id/unpublish",
+            "params": [
+              {
+                "name": "id",
+                "value": "",
+                "type": "path"
+              }
+            ]
+          },
+          "docs": "Unpublish item"
+        }
+      ]
+    }
+  ],
+  "bundled": true
+}

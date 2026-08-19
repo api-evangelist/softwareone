@@ -1,0 +1,96 @@
+openapi: 3.2.0
+info:
+  title: SoftwareOne Marketplace Platform Parameters API
+  version: 1.0.0
+  summary: Programmatic access to the SoftwareOne Marketplace catalog, products, items, listings, parameters, and media.
+  description: 'The SoftwareOne Marketplace Platform API exposes REST endpoints for vendors and
+
+    clients to manage catalog products, items, listings, parameters, and media.
+
+    This specification covers the publicly documented Catalog API surface described at
+
+    docs.platform.softwareone.com/developer-resources/rest-api/catalog-api.
+
+
+    Authentication uses an API token sent in the Authorization header with the Bearer prefix.
+
+    All requests must be made over HTTPS.
+
+    '
+  contact:
+    name: SoftwareOne Platform Documentation
+    url: https://docs.platform.softwareone.com/
+servers:
+- url: https://api.platform.softwareone.com
+  description: SoftwareOne Marketplace Platform production API
+security:
+- bearerAuth: []
+tags:
+- name: Parameters
+  description: Product configuration parameters
+paths:
+  /catalog/products/{productId}/parameters:
+    parameters:
+    - name: productId
+      in: path
+      required: true
+      schema:
+        type: string
+    get:
+      tags:
+      - Parameters
+      summary: List parameters for a product
+      operationId: listProductParameters
+      responses:
+        '200':
+          description: Collection of parameters
+  /catalog/parameters:
+    post:
+      tags:
+      - Parameters
+      summary: Create parameter
+      operationId: createParameter
+      responses:
+        '201':
+          description: Parameter created
+  /catalog/parameters/{id}:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    get:
+      tags:
+      - Parameters
+      summary: Retrieve parameter
+      operationId: getParameter
+      responses:
+        '200':
+          description: Parameter details
+    put:
+      tags:
+      - Parameters
+      summary: Update parameter
+      operationId: updateParameter
+      responses:
+        '200':
+          description: Parameter updated
+    delete:
+      tags:
+      - Parameters
+      summary: Delete parameter
+      operationId: deleteParameter
+      responses:
+        '204':
+          description: Parameter removed
+components:
+  parameters:
+    Id:
+      name: id
+      in: path
+      required: true
+      schema:
+        type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: API Token
+      description: 'API token sent as ''Authorization: Bearer {TOKEN}'' over HTTPS.'

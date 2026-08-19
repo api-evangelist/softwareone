@@ -1,0 +1,133 @@
+openapi: 3.2.0
+info:
+  title: SoftwareOne Marketplace Platform Products API
+  version: 1.0.0
+  summary: Programmatic access to the SoftwareOne Marketplace catalog, products, items, listings, parameters, and media.
+  description: 'The SoftwareOne Marketplace Platform API exposes REST endpoints for vendors and
+
+    clients to manage catalog products, items, listings, parameters, and media.
+
+    This specification covers the publicly documented Catalog API surface described at
+
+    docs.platform.softwareone.com/developer-resources/rest-api/catalog-api.
+
+
+    Authentication uses an API token sent in the Authorization header with the Bearer prefix.
+
+    All requests must be made over HTTPS.
+
+    '
+  contact:
+    name: SoftwareOne Platform Documentation
+    url: https://docs.platform.softwareone.com/
+servers:
+- url: https://api.platform.softwareone.com
+  description: SoftwareOne Marketplace Platform production API
+security:
+- bearerAuth: []
+tags:
+- name: Products
+  description: Catalog product lifecycle management
+paths:
+  /catalog/products:
+    get:
+      tags:
+      - Products
+      summary: List products
+      operationId: listProducts
+      responses:
+        '200':
+          description: Collection of products
+    post:
+      tags:
+      - Products
+      summary: Create product
+      operationId: createProduct
+      responses:
+        '201':
+          description: Product created
+  /catalog/products/{id}:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    get:
+      tags:
+      - Products
+      summary: Retrieve product
+      operationId: getProduct
+      responses:
+        '200':
+          description: Product details
+    put:
+      tags:
+      - Products
+      summary: Update product
+      operationId: updateProduct
+      responses:
+        '200':
+          description: Product updated
+    delete:
+      tags:
+      - Products
+      summary: Delete product
+      operationId: deleteProduct
+      responses:
+        '204':
+          description: Product removed
+  /catalog/products/{id}/mark-for-review:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    post:
+      tags:
+      - Products
+      summary: Submit product for review
+      operationId: markProductForReview
+      responses:
+        '200':
+          description: Product submitted for review
+  /catalog/products/{id}/publish:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    post:
+      tags:
+      - Products
+      summary: Publish product
+      operationId: publishProduct
+      responses:
+        '200':
+          description: Product published
+  /catalog/products/{id}/unpublish:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    post:
+      tags:
+      - Products
+      summary: Unpublish product
+      operationId: unpublishProduct
+      responses:
+        '200':
+          description: Product unpublished
+  /catalog/products/{id}/settings:
+    parameters:
+    - $ref: '#/components/parameters/Id'
+    put:
+      tags:
+      - Products
+      summary: Update product settings
+      operationId: updateProductSettings
+      responses:
+        '200':
+          description: Settings updated
+components:
+  parameters:
+    Id:
+      name: id
+      in: path
+      required: true
+      schema:
+        type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: API Token
+      description: 'API token sent as ''Authorization: Bearer {TOKEN}'' over HTTPS.'
