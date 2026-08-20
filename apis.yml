@@ -29,6 +29,12 @@ tags:
   - Software Procurement
   - Cloud Management
   - License Management
+  - Software-as-a-Service
+tags_raw:
+  - Marketplace
+  - Software Procurement
+  - Cloud Management
+  - License Management
   - SaaS
 url: https://raw.githubusercontent.com/api-evangelist/softwareone/refs/heads/main/apis.yml
 created: '2025-02-17'
@@ -45,6 +51,12 @@ apis:
   humanURL: https://docs.platform.softwareone.com/
   baseURL: https://api.platform.softwareone.com
   tags:
+  - Marketplace
+  - Catalog
+  - Subscription
+  - Order
+  - Billing
+  tags_raw:
   - Marketplace
   - Catalog
   - Subscriptions
@@ -97,6 +109,8 @@ apis:
   humanURL: https://docs.platform.softwareone.com/
   baseURL: https://api.platform.softwareone.com
   tags:
+  - Item
+  tags_raw:
   - Items
   properties:
   - type: OpenAPI
@@ -137,6 +151,8 @@ apis:
   humanURL: https://docs.platform.softwareone.com/
   baseURL: https://api.platform.softwareone.com
   tags:
+  - Product
+  tags_raw:
   - Products
   properties:
   - type: OpenAPI
