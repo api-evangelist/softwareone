@@ -14,9 +14,7 @@ info:
 
     Authentication uses an API token sent in the Authorization header with the Bearer prefix.
 
-    All requests must be made over HTTPS.
-
-    '
+    All requests must be made over HTTPS.'
   contact:
     name: SoftwareOne Platform Documentation
     url: https://docs.platform.softwareone.com/
