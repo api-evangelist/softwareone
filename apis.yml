@@ -169,6 +169,12 @@ apis:
   - type: OpenAPI
     url: openapi/softwareone-products-api-openapi.yml
 common:
+  - type: Plans
+    url: plans/softwareone-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/softwareone-rate-limits.yml
+  - type: FinOps
+    url: finops/softwareone-finops.yml
   - type: DomainSecurity
     url: security/softwareone-domain-security.yml
   - type: GitHubOrganization
