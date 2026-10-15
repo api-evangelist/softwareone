@@ -15,3 +15,35 @@
   relationship: distribution-channel
   status: not-a-workflow
   arazzo: null
+- slug: softwareone-edugain
+  label: eduGAIN
+  partner_name: eduGAIN
+  category: research and education identity federation
+  type: register
+  channel: standard-directory
+  evidence: https://technical.edugain.org/api.php?action=list_entities&type=sp&format=json
+  source: edge
+  relationship: network-participant
+  contract_reference:
+    network: eduGAIN (GÉANT interfederation)
+    spec_file: null
+    roles:
+    - service-provider
+    role: service-provider
+    federations:
+    - SWITCHAAI
+    matched_by: domain:softwareone.com
+    entities:
+    - entity_id: https://academic.softwareone.com
+      role: service-provider
+      federation: SWITCHAAI
+      display_name: SoftwareONE AG
+      entity_categories:
+      - '1'
+      - '109'
+      sirtfi: false
+      coco: true
+    detected_by: sweep-higher-ed.py
+    detected: '2026-10-15'
+  status: not-a-workflow
+  arazzo: null

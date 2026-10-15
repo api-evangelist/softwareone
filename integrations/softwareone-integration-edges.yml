@@ -2,6 +2,8 @@ generated: '2026-10-13'
 method: searched
 checked:
 - https://azuremarketplace.microsoft.com/
+- https://technical.edugain.org/api.php?action=list_entities&type=idp&format=json
+- https://technical.edugain.org/api.php?action=list_entities&type=sp&format=json
 marketplace_apps: []
 edges:
 - partner_name: Microsoft Azure Marketplace
@@ -67,3 +69,34 @@ edges:
   seller_name: SoftwareOne
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
+- partner_name: eduGAIN
+  partner: null
+  type: register
+  channel: standard-directory
+  relationship: network-participant
+  direction: partner-built
+  evidence: https://technical.edugain.org/api.php?action=list_entities&type=sp&format=json
+  category: research and education identity federation
+  contract_reference:
+    network: eduGAIN (GÉANT interfederation)
+    spec_file: null
+    roles:
+    - service-provider
+    role: service-provider
+    federations:
+    - SWITCHAAI
+    matched_by: domain:softwareone.com
+    entities:
+    - entity_id: https://academic.softwareone.com
+      role: service-provider
+      federation: SWITCHAAI
+      display_name: SoftwareONE AG
+      entity_categories:
+      - '1'
+      - '109'
+      sirtfi: false
+      coco: true
+    detected_by: sweep-higher-ed.py
+    detected: '2026-10-15'
+  detected_by: sweep-higher-ed.py
+  first_seen: '2026-10-15'
