@@ -90,6 +90,12 @@ apis:
   - Cloud Cost Management
   - FinOps
   - AWS
+  - Microsoft Azure
+  - Google Cloud
+  tags_raw:
+  - Cloud Cost Management
+  - FinOps
+  - AWS
   - Azure
   - Google Cloud
   properties:
