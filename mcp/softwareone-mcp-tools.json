@@ -1,0 +1,316 @@
+{
+  "endpoint": "https://mcp.platform.softwareone.com/mcp",
+  "captured": "2026-10-20",
+  "method": "initialize + tools/list (anonymous, no tool called; roadmap#992)",
+  "protocol_version": "2025-06-18",
+  "server_info": {
+    "name": "softwareone-marketplace",
+    "version": "3.0.0b2"
+  },
+  "result": {
+    "tools": [
+      {
+        "name": "marketplace_query",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "resource": {
+              "type": "string"
+            },
+            "rql": {
+              "default": "",
+              "type": "string"
+            },
+            "limit": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            },
+            "offset": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            },
+            "page": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            },
+            "select": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            },
+            "order": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            },
+            "path_params": {
+              "anyOf": [
+                {
+                  "additionalProperties": {
+                    "type": "string"
+                  },
+                  "type": "object"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            }
+          },
+          "required": [
+            "resource"
+          ],
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_quick_queries",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {},
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_resources",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {},
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_resource_info",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "resource": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource"
+          ],
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_resource_schema",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "resource": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource"
+          ],
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_audit_fields",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "resource": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null
+            }
+          },
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_docs_index",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {},
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_docs_list",
+        "description": "List documentation resources with optional filters (section, subsection, search).",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "section": {
+              "default": null,
+              "type": "string"
+            },
+            "subsection": {
+              "default": null,
+              "type": "string"
+            },
+            "search": {
+              "default": null,
+              "type": "string"
+            },
+            "limit": {
+              "default": 100,
+              "type": "integer"
+            }
+          },
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_docs_read",
+        "description": "Read a documentation page by uri (e.g. docs://help-and-support/contact-support).\nReturns a JSON object: {\"text\": \"<markdown content>\", \"count\": 1}.\nClients should use the \"text\" field for the document body and \"count\" (always 1) for consistency with other tools.",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {
+            "uri": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "uri"
+          ],
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      },
+      {
+        "name": "marketplace_resources_info",
+        "inputSchema": {
+          "additionalProperties": false,
+          "properties": {},
+          "type": "object"
+        },
+        "outputSchema": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "_meta": {
+          "fastmcp": {
+            "tags": []
+          }
+        }
+      }
+    ]
+  }
+}
