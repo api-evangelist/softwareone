@@ -51,3 +51,30 @@ tool_quality:
   scored: false
   note: Facts from the saved tools/list capture (mcp_tool_quality.py); recorded, not scored. Checks learned
     from Glimind's agent-readiness audit.
+tools:
+- name: marketplace_query
+  description: ''
+- name: marketplace_quick_queries
+  description: ''
+- name: marketplace_resources
+  description: ''
+- name: marketplace_resource_info
+  description: ''
+- name: marketplace_resource_schema
+  description: ''
+- name: marketplace_audit_fields
+  description: ''
+- name: marketplace_docs_index
+  description: ''
+- name: marketplace_docs_list
+  description: List documentation resources with optional filters (section, subsection, search).
+- name: marketplace_docs_read
+  description: 'Read a documentation page by uri (e.g. docs://help-and-support/contact-support).
+
+    Returns a JSON object: {"text": "<markdown content>", "count": 1}.
+
+    Clients should use the "text" field for the document body and "count" (always 1) for consistency with
+    other tools.'
+- name: marketplace_resources_info
+  description: ''
+tools_count: 10
